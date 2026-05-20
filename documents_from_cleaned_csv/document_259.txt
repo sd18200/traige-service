@@ -1,0 +1,20 @@
+Unnamed: 0: 260
+age: 44
+Body Height: 161.9
+Body Mass Index: 30.4
+Body Weight: 79.7
+Body temperature: 38.2
+Diastolic Blood Pressure: 77.0
+Heart rate: 104.8
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 30.6
+Systolic Blood Pressure: 114.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), antepartum eclampsia, covid-19, chronic low back pain (finding), concussion with no loss of consciousness, cough (finding), dyspnea (finding), fatigue (finding), fever (finding), full-time employment (finding), housing unsatisfactory (finding), limited social contact (finding), loss of taste (finding), normal pregnancy, part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), suspected covid-19, viral sinusitis (disorder), wheezing (finding)
+triage_level: 2
+triage_reason: RR 30.6 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

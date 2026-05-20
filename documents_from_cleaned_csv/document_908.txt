@@ -1,0 +1,20 @@
+Unnamed: 0: 911
+age: 23
+Body Height: 165.3
+Body Mass Index: 21.4
+Body Weight: 58.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 76.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 126.0
+conditions: acute allergic reaction, acute bronchitis (disorder), atopic dermatitis, chronic neck pain (finding), full-time employment (finding), normal pregnancy, perennial allergic rhinitis, received certificate of high school equivalency (finding), risk activity involvement (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 532
+age: 17
+Body Height: 155.9
+Body Mass Index: 16.9
+Body Weight: 41.1
+Body temperature: 37.9
+Diastolic Blood Pressure: 85.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 106.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), concussion with no loss of consciousness, risk activity involvement (finding), second degree burn
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

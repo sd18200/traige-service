@@ -1,0 +1,20 @@
+Unnamed: 0: 544
+age: 15
+Body Height: 149.0
+Body Mass Index: 14.7
+Body Weight: 32.5
+Body temperature: 37.6
+Diastolic Blood Pressure: 76.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 110.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), cystic fibrosis, diabetes, hypertriglyceridemia (disorder), infection caused by pseudomonas aeruginosa, male infertility, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

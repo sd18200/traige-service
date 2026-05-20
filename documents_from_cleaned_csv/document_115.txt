@@ -1,0 +1,20 @@
+Unnamed: 0: 115
+age: 20
+Body Height: 175.4
+Body Mass Index: 21.2
+Body Weight: 65.3
+Body temperature: 38.8
+Diastolic Blood Pressure: 74.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 117.0
+conditions: acute viral pharyngitis (disorder), covid-19, child attention deficit disorder, chronic sinusitis (disorder), diarrhea symptom (finding), fever (finding), risk activity involvement (finding), suspected covid-19
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

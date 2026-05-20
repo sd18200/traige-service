@@ -1,0 +1,20 @@
+Unnamed: 0: 56
+age: 3
+Body Height: 51.7
+Body Mass Index: 26.384745762711862
+Body Weight: 3.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 113.0
+conditions: nan
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

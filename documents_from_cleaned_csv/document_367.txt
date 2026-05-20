@@ -1,0 +1,20 @@
+Unnamed: 0: 369
+age: 86
+Body Height: 173.9
+Body Mass Index: 27.9
+Body Weight: 84.3
+Body temperature: 37.3
+Diastolic Blood Pressure: 72.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 108.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), lack of access to transportation (finding), limited social contact (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), transport problems (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

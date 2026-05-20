@@ -1,0 +1,20 @@
+Unnamed: 0: 661
+age: 111
+Body Height: 175.4
+Body Mass Index: 30.4
+Body Weight: 93.6
+Body temperature: 37.7
+Diastolic Blood Pressure: 75.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), fracture of clavicle, full-time employment (finding), has a criminal record (finding), limited social contact (finding), neoplasm of prostate, part-time employment (finding), received higher education (finding), served in armed forces (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

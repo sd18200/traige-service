@@ -1,0 +1,20 @@
+Unnamed: 0: 681
+age: 62
+Body Height: 172.9
+Body Mass Index: 28.0
+Body Weight: 83.8
+Body temperature: 40.3
+Diastolic Blood Pressure: 104.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 167.0
+conditions: atrial fibrillation, body mass index 30+ - obesity (finding), covid-19, chronic sinusitis (disorder), cough (finding), dyspnea (finding), fever (finding), full-time employment (finding), has a criminal record (finding), hypertension, loss of taste (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), risk activity involvement (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, wheezing (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

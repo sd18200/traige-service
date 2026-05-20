@@ -1,0 +1,20 @@
+Unnamed: 0: 403
+age: 74
+Body Height: 159.9
+Body Mass Index: 27.2
+Body Weight: 69.5
+Body temperature: 39.7
+Diastolic Blood Pressure: 89.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 114.0
+conditions: acute bacterial sinusitis (disorder), body mass index 30+ - obesity (finding), covid-19, chronic sinusitis (disorder), cough (finding), fatigue (finding), fever (finding), full-time employment (finding), has a criminal record (finding), limited social contact (finding), miscarriage in first trimester, part-time employment (finding), polyp of colon, received certificate of high school equivalency (finding), social isolation (finding), sputum finding (finding), streptococcal sore throat (disorder), stress (finding), suspected covid-19, tubal pregnancy, unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

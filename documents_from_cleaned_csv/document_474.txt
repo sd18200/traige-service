@@ -1,0 +1,20 @@
+Unnamed: 0: 476
+age: 18
+Body Height: 148.3
+Body Mass Index: 19.2
+Body Weight: 42.2
+Body temperature: 37.6
+Diastolic Blood Pressure: 74.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 131.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), atopic dermatitis, childhood asthma, chronic sinusitis (disorder), otitis media, seasonal allergic rhinitis, streptococcal sore throat (disorder), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

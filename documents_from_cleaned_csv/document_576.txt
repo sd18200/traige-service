@@ -1,0 +1,20 @@
+Unnamed: 0: 579
+age: 58
+Body Height: 148.2
+Body Mass Index: 27.9
+Body Weight: 61.2
+Body temperature: 37.3
+Diastolic Blood Pressure: 74.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 126.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic sinusitis (disorder), fibromyalgia (disorder), fracture of clavicle, full-time employment (finding), limited social contact (finding), miscarriage in first trimester, part-time employment (finding), prediabetes, received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

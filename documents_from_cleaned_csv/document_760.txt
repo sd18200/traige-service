@@ -1,0 +1,20 @@
+Unnamed: 0: 763
+age: 25
+Body Height: 190.2
+Body Mass Index: 26.0
+Body Weight: 94.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 123.0
+conditions: full-time employment (finding), hypertension, limited social contact (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), severe anxiety (panic) (finding, stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

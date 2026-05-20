@@ -1,0 +1,20 @@
+Unnamed: 0: 12
+age: 34
+Body Height: 161.9
+Body Mass Index: 26.7
+Body Weight: 70.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 80.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 107.0
+conditions: full-time employment (finding), housing unsatisfactory (finding), lack of access to transportation (finding), normal pregnancy, part-time employment (finding), received higher education (finding), sprain of wrist, stress (finding), transport problems (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

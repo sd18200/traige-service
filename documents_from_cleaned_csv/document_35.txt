@@ -1,0 +1,20 @@
+Unnamed: 0: 35
+age: 10
+Body Height: 117.2
+Body Mass Index: 19.7
+Body Weight: 28.4
+Body temperature: 40.3
+Diastolic Blood Pressure: 80.0
+Heart rate: 68.7
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.6
+Systolic Blood Pressure: 110.0
+conditions: acute allergic reaction, acute bronchitis (disorder), covid-19, cough (finding), fever (finding), loss of taste (finding), otitis media, seasonal allergic rhinitis, suspected covid-19
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

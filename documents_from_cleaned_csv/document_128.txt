@@ -1,0 +1,20 @@
+Unnamed: 0: 128
+age: 79
+Body Height: 178.3
+Body Mass Index: 27.7
+Body Weight: 88.1
+Body temperature: 37.6
+Diastolic Blood Pressure: 73.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 130.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), chronic low back pain (finding), chronic neck pain (finding), closed fracture of hip, fracture of forearm, fracture of rib, fracture subluxation of wrist, full-time employment (finding), has a criminal record (finding), limited social contact (finding), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), received higher education (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

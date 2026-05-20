@@ -1,0 +1,20 @@
+Unnamed: 0: 13
+age: 40
+Body Height: 151.1
+Body Mass Index: 30.2
+Body Weight: 68.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 116.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), fetus with unknown complication, full-time employment (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 629
+age: 9
+Body Height: 124.5
+Body Mass Index: 14.1
+Body Weight: 21.9
+Body temperature: 38.0
+Diastolic Blood Pressure: 76.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 125.0
+conditions: sprain of ankle, streptococcal sore throat (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

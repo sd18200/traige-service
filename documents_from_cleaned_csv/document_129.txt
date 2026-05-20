@@ -1,0 +1,20 @@
+Unnamed: 0: 129
+age: 51
+Body Height: 164.3
+Body Mass Index: 27.8
+Body Weight: 75.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 114.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 192.0
+conditions: body mass index 30+ - obesity (finding), chronic sinusitis (disorder), diabetes, full-time employment (finding), hyperglycemia (disorder), hyperlipidemia, hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, neuropathy due to type 2 diabetes mellitus (disorder), part-time employment (finding), prediabetes, received higher education (finding), refugee (person), severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 114.0 mmHg (HTN crisis)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

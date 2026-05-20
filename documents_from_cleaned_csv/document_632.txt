@@ -1,0 +1,20 @@
+Unnamed: 0: 635
+age: 31
+Body Height: 161.7
+Body Mass Index: 24.1
+Body Weight: 63.0
+Body temperature: 37.2
+Diastolic Blood Pressure: 76.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), fetus with unknown complication, full-time employment (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), perennial allergic rhinitis, preeclampsia, received certificate of high school equivalency (finding), stress (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 944
+age: 71
+Body Height: 171.6
+Body Mass Index: 30.1
+Body Weight: 88.7
+Body temperature: 37.6
+Diastolic Blood Pressure: 102.0
+Heart rate: 92.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 170.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), cardiac arrest, coronary heart disease, fetus with unknown complication, full-time employment (finding), history of cardiac arrest (situation), hypertension, limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

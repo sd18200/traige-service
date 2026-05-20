@@ -1,0 +1,20 @@
+Unnamed: 0: 885
+age: 85
+Body Height: 161.5
+Body Mass Index: 30.3
+Body Weight: 78.9
+Body temperature: 38.0
+Diastolic Blood Pressure: 85.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 134.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), fracture subluxation of wrist, full-time employment (finding), has a criminal record (finding), limited social contact (finding), osteoporosis (disorder), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

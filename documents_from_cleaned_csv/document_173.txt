@@ -1,0 +1,20 @@
+Unnamed: 0: 173
+age: 59
+Body Height: 163.0
+Body Mass Index: 27.5
+Body Weight: 73.0
+Body temperature: 36.7
+Diastolic Blood Pressure: 74.0
+Heart rate: 62.8
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 33.2
+Systolic Blood Pressure: 115.0
+conditions: acute pulmonary embolism (disorder), body mass index 30+ - obesity (finding), covid-19, cough (finding), fracture of rib, hypoxemia (disorder), loss of taste (finding), normal pregnancy, pneumonia (disorder), received higher education (finding), recurrent urinary tract infection, respiratory distress (finding), sepsis caused by virus (disorder), social isolation (finding), stress (finding), suspected covid-19, unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: RR 33.2 bpm (resp distress); Condition: sepsis; Condition: pulmonary embolism
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 290
+age: 19
+Body Height: 176.9
+Body Mass Index: 22.4
+Body Weight: 69.9
+Body temperature: 37.7
+Diastolic Blood Pressure: 80.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 114.0
+conditions: acute viral pharyngitis (disorder), sprain of ankle, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

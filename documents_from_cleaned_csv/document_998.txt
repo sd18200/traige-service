@@ -1,0 +1,20 @@
+Unnamed: 0: 1001
+age: 49
+Body Height: 174.7
+Body Mass Index: 30.2
+Body Weight: 92.1
+Body temperature: 36.8
+Diastolic Blood Pressure: 85.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 125.0
+conditions: acute bronchitis (disorder), acute deep venous thrombosis (disorder), body mass index 30+ - obesity (finding), covid-19, cough (finding), fever (finding), full-time employment (finding), hypertension, hypoxemia (disorder), loss of taste (finding), not in labor force (finding), part-time employment (finding), pneumonia (disorder), received certificate of high school equivalency (finding), respiratory distress (finding), risk activity involvement (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia; Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

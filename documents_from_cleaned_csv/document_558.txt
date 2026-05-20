@@ -1,0 +1,20 @@
+Unnamed: 0: 561
+age: 24
+Body Height: 163.2
+Body Mass Index: 25.6
+Body Weight: 68.2
+Body temperature: 37.5
+Diastolic Blood Pressure: 86.0
+Heart rate: 67.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 128.0
+conditions: chronic low back pain (finding), chronic neck pain (finding), facial laceration, full-time employment (finding), hypertension, normal pregnancy, received certificate of high school equivalency (finding), severe anxiety (panic) (finding, social isolation (finding), sprain of ankle, streptococcal sore throat (disorder), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

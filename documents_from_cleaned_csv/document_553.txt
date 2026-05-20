@@ -1,0 +1,20 @@
+Unnamed: 0: 556
+age: 58
+Body Height: 163.8
+Body Mass Index: 30.2
+Body Weight: 81.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 113.0
+conditions: anemia (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), hypertension, limited social contact (finding), miscarriage in first trimester, non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), suspected lung cancer (situation), tubal pregnancy, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Pain score 6.0; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

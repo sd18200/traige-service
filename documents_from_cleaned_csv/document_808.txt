@@ -1,0 +1,20 @@
+Unnamed: 0: 811
+age: 111
+Body Height: 191.4
+Body Mass Index: 27.2
+Body Weight: 99.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 71.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 127.0
+conditions: acute bronchitis (disorder), anemia (disorder), appendicitis, body mass index 30+ - obesity (finding), chronic congestive heart failure (disorder), coronary heart disease, full-time employment (finding), has a criminal record (finding), history of appendectomy, history of myocardial infarction (situation), hyperlipidemia, limited social contact (finding), myocardial infarction, part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

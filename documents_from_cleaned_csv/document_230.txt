@@ -1,0 +1,20 @@
+Unnamed: 0: 231
+age: 53
+Body Height: 163.3
+Body Mass Index: 29.6
+Body Weight: 79.0
+Body temperature: 37.7
+Diastolic Blood Pressure: 76.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 109.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), fetus with unknown complication, full-time employment (finding), hyperlipidemia, miscarriage in first trimester, normal pregnancy, not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, risk activity involvement (finding), social isolation (finding), stress (finding), stroke, unhealthy alcohol drinking behavior (finding)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

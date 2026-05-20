@@ -1,0 +1,20 @@
+Unnamed: 0: 1144
+age: 62
+Body Height: 174.8
+Body Mass Index: 27.9
+Body Weight: 85.1
+Body temperature: 39.3
+Diastolic Blood Pressure: 81.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 113.0
+conditions: anemia (disorder), covid-19, fatigue (finding), fever (finding), full-time employment (finding), housing unsatisfactory (finding), injury of medial collateral ligament of knee, lack of access to transportation (finding), limited social contact (finding), localized  primary osteoarthritis of the hand, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, stress (finding), suspected covid-19, transport problems (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

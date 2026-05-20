@@ -1,0 +1,20 @@
+Unnamed: 0: 865
+age: 58
+Body Height: 178.3
+Body Mass Index: 21.3
+Body Weight: 67.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 67.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 134.0
+conditions: drug overdose, full-time employment (finding), housing unsatisfactory (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

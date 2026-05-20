@@ -1,0 +1,20 @@
+Unnamed: 0: 215
+age: 49
+Body Height: 187.9
+Body Mass Index: 28.1
+Body Weight: 99.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 123.0
+conditions: anemia (disorder), cardiac arrest, concussion with no loss of consciousness, fracture of rib, full-time employment (finding), gout, history of cardiac arrest (situation), limited social contact (finding), not in labor force (finding), prediabetes, received higher education (finding), stress (finding)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

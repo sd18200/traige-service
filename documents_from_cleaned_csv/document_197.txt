@@ -1,0 +1,20 @@
+Unnamed: 0: 198
+age: 24
+Body Height: 181.7
+Body Mass Index: 20.0
+Body Weight: 65.9
+Body temperature: 37.2
+Diastolic Blood Pressure: 76.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), atopic dermatitis, full-time employment (finding), housing unsatisfactory (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), seasonal allergic rhinitis, social isolation (finding), streptococcal sore throat (disorder), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

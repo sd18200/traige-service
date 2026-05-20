@@ -1,0 +1,20 @@
+Unnamed: 0: 143
+age: 59
+Body Height: 165.3
+Body Mass Index: 29.8
+Body Weight: 81.5
+Body temperature: 37.1
+Diastolic Blood Pressure: 97.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 149.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), diabetes, fetus with unknown complication, full-time employment (finding), has a criminal record (finding), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

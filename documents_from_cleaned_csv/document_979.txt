@@ -1,0 +1,20 @@
+Unnamed: 0: 982
+age: 34
+Body Height: 177.4
+Body Mass Index: 29.5
+Body Weight: 92.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 100.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 151.0
+conditions: anemia (disorder), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), hypertension, laceration of forearm, laceration of thigh, limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

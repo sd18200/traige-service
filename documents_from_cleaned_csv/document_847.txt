@@ -1,0 +1,20 @@
+Unnamed: 0: 850
+age: 58
+Body Height: 179.4
+Body Mass Index: 29.6
+Body Weight: 95.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 80.0
+Heart rate: 92.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 113.0
+conditions: acute bronchitis (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), full-time employment (finding), limited social contact (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 292
+age: 18
+Body Height: 148.7
+Body Mass Index: 24.0
+Body Weight: 53.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 83.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 113.0
+conditions: acute bronchitis (disorder), childhood asthma, injury of tendon of the rotator cuff of shoulder, otitis media, perennial allergic rhinitis with seasonal variation
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

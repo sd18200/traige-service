@@ -1,0 +1,20 @@
+Unnamed: 0: 311
+age: 43
+Body Height: 136.8
+Body Mass Index: 15.4
+Body Weight: 28.9
+Body temperature: 37.8
+Diastolic Blood Pressure: 79.0
+Heart rate: 74.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 114.0
+conditions: acute viral pharyngitis (disorder), childhood asthma, coronary heart disease, history of myocardial infarction (situation), myocardial infarction, otitis media
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 243
+age: 30
+Body Height: 160.5
+Body Mass Index: 23.0
+Body Weight: 59.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 85.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), chronic low back pain (finding), full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), perennial allergic rhinitis with seasonal variation, received higher education (finding), reports of violence in the environment (finding), rupture of patellar tendon, stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 932
+age: 28
+Body Height: 175.0
+Body Mass Index: 26.0
+Body Weight: 79.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 137.0
+conditions: acute bronchitis (disorder), childhood asthma, chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), full-time employment (finding), not in labor force (finding), perennial allergic rhinitis, received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

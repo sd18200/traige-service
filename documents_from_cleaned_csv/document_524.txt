@@ -1,0 +1,20 @@
+Unnamed: 0: 527
+age: 17
+Body Height: 155.1
+Body Mass Index: 24.5
+Body Weight: 59.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), laceration of thigh, seasonal allergic rhinitis, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

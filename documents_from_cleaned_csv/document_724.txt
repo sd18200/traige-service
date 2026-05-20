@@ -1,0 +1,20 @@
+Unnamed: 0: 727
+age: 49
+Body Height: 170.0
+Body Mass Index: 30.0
+Body Weight: 79.8
+Body temperature: 40.1
+Diastolic Blood Pressure: 76.0
+Heart rate: 186.4
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.1
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), covid-19, diarrhea symptom (finding), fatigue (finding), fever (finding), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), joint pain (finding), limited social contact (finding), loss of taste (finding), miscarriage in first trimester, muscle pain (finding), normal pregnancy, not in labor force (finding), osteoarthritis of knee, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), sepsis (disorder), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: HR 186.4 bpm (tachycardia); Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

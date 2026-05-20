@@ -1,0 +1,20 @@
+Unnamed: 0: 385
+age: 63
+Body Height: 174.3
+Body Mass Index: 30.5
+Body Weight: 92.6
+Body temperature: 37.5
+Diastolic Blood Pressure: 78.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), hyperlipidemia, hypertension, lack of access to transportation (finding), not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), transport problems (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

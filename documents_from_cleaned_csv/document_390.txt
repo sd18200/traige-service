@@ -1,0 +1,20 @@
+Unnamed: 0: 392
+age: 98
+Body Height: 171.1
+Body Mass Index: 27.3
+Body Weight: 79.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 130.0
+conditions: carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), fracture of clavicle, full-time employment (finding), neoplasm of prostate, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), refugee (person), reports of violence in the environment (finding), served in armed forces (finding), smokes tobacco daily, social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

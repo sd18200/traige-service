@@ -1,0 +1,20 @@
+Unnamed: 0: 553
+age: 24
+Body Height: 176.8
+Body Mass Index: 22.2
+Body Weight: 69.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 124.0
+conditions: full-time employment (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

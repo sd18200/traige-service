@@ -1,0 +1,20 @@
+Unnamed: 0: 838
+age: 77
+Body Height: 174.7
+Body Mass Index: 32.8
+Body Weight: 100.1
+Body temperature: 40.3
+Diastolic Blood Pressure: 82.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 135.0
+conditions: anemia (disorder), appendicitis, body mass index 30+ - obesity (finding), covid-19, chronic sinusitis (disorder), cough (finding), fatigue (finding), fever (finding), full-time employment (finding), headache (finding), history of appendectomy, hyperlipidemia, loss of taste (finding), part-time employment (finding), polyp of colon, prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

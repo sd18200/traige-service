@@ -1,0 +1,20 @@
+Unnamed: 0: 736
+age: 58
+Body Height: 163.2
+Body Mass Index: 27.6
+Body Weight: 73.4
+Body temperature: 37.6
+Diastolic Blood Pressure: 115.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 177.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), bleeding from anus, body mass index 30+ - obesity (finding), escherichia coli urinary tract infection, hypertension, laceration of hand, miscarriage in first trimester, normal pregnancy, protracted diarrhea, received higher education (finding), secondary malignant neoplasm of colon, social isolation (finding), stress (finding), tubal pregnancy, unemployed (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 115.0 mmHg (HTN crisis)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

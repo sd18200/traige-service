@@ -1,0 +1,20 @@
+Unnamed: 0: 419
+age: 74
+Body Height: 158.1
+Body Mass Index: 29.5
+Body Weight: 73.8
+Body temperature: 39.2
+Diastolic Blood Pressure: 79.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 102.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), fibromyalgia (disorder), hyperlipidemia, limited social contact (finding), opioid abuse (disorder), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), unemployed (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

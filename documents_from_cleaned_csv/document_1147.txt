@@ -1,0 +1,20 @@
+Unnamed: 0: 1152
+age: 61
+Body Height: 161.0
+Body Mass Index: 27.3
+Body Weight: 70.7
+Body temperature: 37.0
+Diastolic Blood Pressure: 79.0
+Heart rate: 67.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 123.0
+conditions: acute viral pharyngitis (disorder), appendicitis, history of appendectomy, hypertension, limited social contact (finding), miscarriage in first trimester, otitis media, primary fibromyalgia syndrome, received higher education (finding), reports of violence in the environment (finding), rupture of appendix, social isolation (finding), stress (finding), unemployed (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 32
+age: 44
+Body Height: 171.8
+Body Mass Index: 29.3
+Body Weight: 86.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 135.0
+conditions: acute bronchitis (disorder), full-time employment (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

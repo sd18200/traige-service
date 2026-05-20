@@ -1,0 +1,20 @@
+Unnamed: 0: 320
+age: 96
+Body Height: 167.3
+Body Mass Index: 29.1
+Body Weight: 81.4
+Body temperature: 39.1
+Diastolic Blood Pressure: 76.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), chronic intractable migraine without aura, chronic pain, drug overdose, full-time employment (finding), has a criminal record (finding), impacted molars, limited social contact (finding), not in labor force (finding), only received primary school education (finding), osteoporosis (disorder), otitis media, part-time employment (finding), refugee (person), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

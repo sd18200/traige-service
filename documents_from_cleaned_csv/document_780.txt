@@ -1,0 +1,20 @@
+Unnamed: 0: 783
+age: 66
+Body Height: 169.4
+Body Mass Index: 27.8
+Body Weight: 79.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 110.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hyperlipidemia, lack of access to transportation (finding), limited social contact (finding), localized  primary osteoarthritis of the hand, part-time employment (finding), received higher education (finding), sepsis (disorder), social isolation (finding), stress (finding), transformed migraine (disorder), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

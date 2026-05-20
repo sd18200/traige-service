@@ -1,0 +1,20 @@
+Unnamed: 0: 209
+age: 87
+Body Height: 165.5
+Body Mass Index: 27.7
+Body Weight: 75.9
+Body temperature: 37.7
+Diastolic Blood Pressure: 89.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 115.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic intractable migraine without aura, chronic pain, drug overdose, full-time employment (finding), hyperlipidemia, impacted molars, not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

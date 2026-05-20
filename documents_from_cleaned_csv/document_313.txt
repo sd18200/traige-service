@@ -1,0 +1,20 @@
+Unnamed: 0: 314
+age: 27
+Body Height: 154.5
+Body Mass Index: 26.4
+Body Weight: 63.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 85.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 114.0
+conditions: full-time employment (finding), limited social contact (finding), part-time employment (finding), received certificate of high school equivalency (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

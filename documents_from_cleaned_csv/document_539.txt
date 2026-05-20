@@ -1,0 +1,20 @@
+Unnamed: 0: 542
+age: 55
+Body Height: 164.6
+Body Mass Index: 27.8
+Body Weight: 75.3
+Body temperature: 37.0
+Diastolic Blood Pressure: 81.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 136.0
+conditions: acute bacterial sinusitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), cardiac arrest, full-time employment (finding), history of cardiac arrest (situation), limited social contact (finding), not in labor force (finding), osteoarthritis of knee, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

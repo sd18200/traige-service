@@ -1,0 +1,20 @@
+Unnamed: 0: 429
+age: 76
+Body Height: 164.1
+Body Mass Index: 38.0
+Body Weight: 102.3
+Body temperature: 37.4
+Diastolic Blood Pressure: 80.0
+Heart rate: 86.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 106.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), body mass index 40+ - severely obese (finding), fracture of forearm, full-time employment (finding), hyperlipidemia, miscarriage in first trimester, not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

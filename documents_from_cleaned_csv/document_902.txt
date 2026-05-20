@@ -1,0 +1,20 @@
+Unnamed: 0: 905
+age: 82
+Body Height: 167.3
+Body Mass Index: 27.5
+Body Weight: 77.0
+Body temperature: 37.1
+Diastolic Blood Pressure: 77.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 134.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), bullet wound, chronic sinusitis (disorder), fracture subluxation of wrist, full-time employment (finding), hyperlipidemia, limited social contact (finding), localized  primary osteoarthritis of the hand, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

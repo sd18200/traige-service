@@ -1,0 +1,20 @@
+Unnamed: 0: 748
+age: 28
+Body Height: 164.5
+Body Mass Index: 24.3
+Body Weight: 65.9
+Body temperature: 37.9
+Diastolic Blood Pressure: 78.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 116.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), contact dermatitis, full-time employment (finding), limited social contact (finding), normal pregnancy, only received primary school education (finding), part-time employment (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 333
+age: 21
+Body Height: 187.9
+Body Mass Index: 27.7
+Body Weight: 97.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 107.0
+conditions: full-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), seasonal allergic rhinitis, social isolation (finding), sprain of ankle, stress (finding)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

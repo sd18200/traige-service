@@ -1,0 +1,20 @@
+Unnamed: 0: 883
+age: 79
+Body Height: 167.1
+Body Mass Index: 30.2
+Body Weight: 84.2
+Body temperature: 37.7
+Diastolic Blood Pressure: 75.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 112.0
+conditions: acute viral pharyngitis (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), overlapping malignant neoplasm of colon, part-time employment (finding), polyp of colon, prediabetes, received certificate of high school equivalency (finding), recurrent rectal polyp, reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

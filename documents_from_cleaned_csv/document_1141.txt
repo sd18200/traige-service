@@ -1,0 +1,20 @@
+Unnamed: 0: 1145
+age: 12
+Body Height: 131.9
+Body Mass Index: 19.0
+Body Weight: 33.0
+Body temperature: 41.7
+Diastolic Blood Pressure: 76.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 104.0
+conditions: acute bronchitis (disorder), covid-19, chill (finding), cough (finding), fatigue (finding), fever (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 104.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

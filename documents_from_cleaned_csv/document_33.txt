@@ -1,0 +1,20 @@
+Unnamed: 0: 33
+age: 57
+Body Height: 166.0
+Body Mass Index: 30.0
+Body Weight: 82.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 108.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), fracture of clavicle, lack of access to transportation (finding), limited social contact (finding), malignant neoplasm of breast (disorder), received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), sprain of ankle, stress (finding), stroke, transport problems (finding), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

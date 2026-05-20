@@ -1,0 +1,20 @@
+Unnamed: 0: 23
+age: 69
+Body Height: 186.8
+Body Mass Index: 30.2
+Body Weight: 105.2
+Body temperature: 37.9
+Diastolic Blood Pressure: 88.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 131.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), full-time employment (finding), limited social contact (finding), not in labor force (finding), osteoarthritis of knee, part-time employment (finding), polyp of colon, prediabetes, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

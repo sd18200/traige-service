@@ -1,0 +1,20 @@
+Unnamed: 0: 126
+age: 74
+Body Height: 191.4
+Body Mass Index: 29.2
+Body Weight: 107.1
+Body temperature: 38.0
+Diastolic Blood Pressure: 70.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), full-time employment (finding), hypertension, neoplasm of prostate, not in labor force (finding), otitis media, part-time employment (finding), polyp of colon, received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), served in armed forces (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

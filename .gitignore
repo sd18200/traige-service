@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+target/
+.idea/
+*.iml
+.DS_Store
+csv/claims_transactions.csv
+synthea/

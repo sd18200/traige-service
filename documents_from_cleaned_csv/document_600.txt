@@ -1,0 +1,20 @@
+Unnamed: 0: 603
+age: 81
+Body Height: 161.4
+Body Mass Index: 27.3
+Body Weight: 71.0
+Body temperature: 38.2
+Diastolic Blood Pressure: 75.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 103.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), blighted ovum, familial alzheimer's disease of early onset (disorder), first degree burn, full-time employment (finding), has a criminal record (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, part-time employment (finding), pneumonia, prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), sepsis (disorder), social isolation (finding), streptococcal sore throat (disorder), stress (finding), tubal pregnancy, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

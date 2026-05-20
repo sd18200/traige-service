@@ -1,0 +1,20 @@
+Unnamed: 0: 1118
+age: 21
+Body Height: 157.3
+Body Mass Index: 23.4
+Body Weight: 57.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 108.0
+conditions: acute bronchitis (disorder), risk activity involvement (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

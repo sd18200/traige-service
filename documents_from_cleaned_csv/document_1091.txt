@@ -1,0 +1,20 @@
+Unnamed: 0: 1095
+age: 50
+Body Height: 164.1
+Body Mass Index: 27.9
+Body Weight: 75.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 87.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), epilepsy, full-time employment (finding), history of single seizure (situation), hypertension, limited social contact (finding), normal pregnancy, not in labor force (finding), received higher education (finding), seizure disorder, social isolation (finding), sprain of ankle, stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

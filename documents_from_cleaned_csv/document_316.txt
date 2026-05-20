@@ -1,0 +1,20 @@
+Unnamed: 0: 317
+age: 38
+Body Height: 173.3
+Body Mass Index: 28.3
+Body Weight: 85.1
+Body temperature: 37.7
+Diastolic Blood Pressure: 83.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 119.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic low back pain (finding), full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 322
+age: 84
+Body Height: 181.9
+Body Mass Index: 30.3
+Body Weight: 100.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 60.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic intractable migraine without aura, chronic sinusitis (disorder), fracture of ankle, full-time employment (finding), has a criminal record (finding), hypertension, limited social contact (finding), neoplasm of prostate, opioid abuse (disorder), part-time employment (finding), prediabetes, received higher education (finding), served in armed forces (finding), severe anxiety (panic) (finding, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

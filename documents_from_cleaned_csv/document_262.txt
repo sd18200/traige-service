@@ -1,0 +1,20 @@
+Unnamed: 0: 263
+age: 86
+Body Height: 175.0
+Body Mass Index: 28.0
+Body Weight: 85.7
+Body temperature: 37.2
+Diastolic Blood Pressure: 77.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), chronic low back pain (finding), chronic obstructive bronchitis (disorder), fibromyalgia (disorder), full-time employment (finding), housing unsatisfactory (finding), hypertension, not in labor force (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), sinusitis (disorder), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

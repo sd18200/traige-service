@@ -1,0 +1,20 @@
+Unnamed: 0: 383
+age: 68
+Body Height: 161.9
+Body Mass Index: 28.7
+Body Weight: 75.5
+Body temperature: 40.2
+Diastolic Blood Pressure: 76.0
+Heart rate: 123.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 21.2
+Systolic Blood Pressure: 117.0
+conditions: acute bronchitis (disorder), anemia (disorder), covid-19, concussion with no loss of consciousness, cough (finding), fever (finding), full-time employment (finding), lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), osteoporosis (disorder), polyp of colon, prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), suspected covid-19, transport problems (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: HR 123.0 bpm; RR 21.2 bpm
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 1107
+age: 42
+Body Height: 163.5
+Body Mass Index: 29.1
+Body Weight: 77.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 134.0
+conditions: full-time employment (finding), limited social contact (finding), normal pregnancy, not in labor force (finding), only received primary school education (finding), otitis media, social isolation (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

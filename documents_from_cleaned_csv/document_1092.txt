@@ -1,0 +1,20 @@
+Unnamed: 0: 1096
+age: 112
+Body Height: 153.8
+Body Mass Index: 28.7
+Body Weight: 68.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 102.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 149.0
+conditions: atrial fibrillation, body mass index 30+ - obesity (finding), cardiac arrest, chronic congestive heart failure (disorder), chronic sinusitis (disorder), full-time employment (finding), history of cardiac arrest (situation), hyperlipidemia, hypertension, lack of access to transportation (finding), limited social contact (finding), miscarriage in first trimester, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), shock (disorder), stress (finding), stroke, transport problems (finding)
+triage_level: 2
+triage_reason: Condition: stroke; Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

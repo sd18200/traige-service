@@ -1,0 +1,20 @@
+Unnamed: 0: 833
+age: 26
+Body Height: 181.0
+Body Mass Index: 22.8
+Body Weight: 74.7
+Body temperature: 37.3
+Diastolic Blood Pressure: 87.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 132.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), chronic low back pain (finding), chronic neck pain (finding), chronic pain, full-time employment (finding), limited social contact (finding), not in labor force (finding), received higher education (finding), sepsis (disorder), social isolation (finding), sprain of wrist, stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

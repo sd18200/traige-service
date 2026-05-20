@@ -1,0 +1,20 @@
+Unnamed: 0: 1109
+age: 68
+Body Height: 161.0
+Body Mass Index: 30.7
+Body Weight: 79.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 118.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), fibromyalgia (disorder), full-time employment (finding), impacted molars, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), osteoarthritis of hip, part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 1136
+age: 30
+Body Height: 170.6
+Body Mass Index: 24.7
+Body Weight: 71.8
+Body temperature: 37.4
+Diastolic Blood Pressure: 76.0
+Heart rate: 93.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 104.0
+conditions: acute viral pharyngitis (disorder), chronic low back pain (finding), chronic sinusitis (disorder), full-time employment (finding), hypertension, limited social contact (finding), misuses drugs (finding), normal pregnancy, part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 104.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

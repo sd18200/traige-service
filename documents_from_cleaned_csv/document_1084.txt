@@ -1,0 +1,20 @@
+Unnamed: 0: 1087
+age: 62
+Body Height: 172.2
+Body Mass Index: 28.5
+Body Weight: 84.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 85.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 127.0
+conditions: anemia (disorder), chronic congestive heart failure (disorder), full-time employment (finding), has a criminal record (finding), hypertension, impacted molars, limited social contact (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

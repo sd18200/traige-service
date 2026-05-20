@@ -1,0 +1,20 @@
+Unnamed: 0: 168
+age: 17
+Body Height: 167.5
+Body Mass Index: 18.1
+Body Weight: 50.7
+Body temperature: 37.6
+Diastolic Blood Pressure: 75.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 133.0
+conditions: acute bronchitis (disorder), child attention deficit disorder, streptococcal sore throat (disorder), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

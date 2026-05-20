@@ -1,0 +1,20 @@
+Unnamed: 0: 1056
+age: 82
+Body Height: 165.8
+Body Mass Index: 28.4
+Body Weight: 78.2
+Body temperature: 37.0
+Diastolic Blood Pressure: 76.0
+Heart rate: 74.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 114.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic sinusitis (disorder), full-time employment (finding), idiopathic atrophic hypothyroidism, limited social contact (finding), not in labor force (finding), overlapping malignant neoplasm of colon, part-time employment (finding), polyp of colon, prediabetes, primary fibromyalgia syndrome, received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

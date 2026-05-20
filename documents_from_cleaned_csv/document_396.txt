@@ -1,0 +1,20 @@
+Unnamed: 0: 398
+age: 60
+Body Height: 170.8
+Body Mass Index: 30.1
+Body Weight: 87.7
+Body temperature: 37.6
+Diastolic Blood Pressure: 74.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 111.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), concussion with no loss of consciousness, full-time employment (finding), impacted molars, laceration of thigh, limited social contact (finding), part-time employment (finding), prediabetes, received higher education (finding), refugee (person), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

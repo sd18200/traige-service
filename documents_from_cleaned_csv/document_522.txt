@@ -1,0 +1,20 @@
+Unnamed: 0: 525
+age: 70
+Body Height: 174.7
+Body Mass Index: 27.9
+Body Weight: 85.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 70.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 113.0
+conditions: acute bronchitis (disorder), alcoholism, anemia (disorder), cardiac arrest, full-time employment (finding), has a criminal record (finding), history of cardiac arrest (situation), hyperlipidemia, hypertension, limited social contact (finding), not in labor force (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), sepsis (disorder), served in armed forces (finding), smokes tobacco daily, social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis; Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

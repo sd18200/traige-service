@@ -1,0 +1,20 @@
+Unnamed: 0: 994
+age: 25
+Body Height: 163.0
+Body Mass Index: 27.5
+Body Weight: 73.0
+Body temperature: 41.9
+Diastolic Blood Pressure: 79.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 123.0
+conditions: anemia (disorder), covid-19, chill (finding), fever (finding), full-time employment (finding), headache (finding), hypertension, lack of access to transportation (finding), limited social contact (finding), loss of taste (finding), misuses drugs (finding), normal pregnancy, not in labor force (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), suspected covid-19, transport problems (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 1019
+age: 105
+Body Height: 180.6
+Body Mass Index: 27.5
+Body Weight: 89.6
+Body temperature: 37.0
+Diastolic Blood Pressure: 73.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), alzheimer's disease (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), chronic neck pain (finding), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), hyperlipidemia, limited social contact (finding), osteoarthritis of hip, part-time employment (finding), pneumonia, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

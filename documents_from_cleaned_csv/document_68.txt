@@ -1,0 +1,20 @@
+Unnamed: 0: 68
+age: 54
+Body Height: 169.4
+Body Mass Index: 30.1
+Body Weight: 86.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 127.0
+conditions: anemia (disorder), chronic low back pain (finding), epilepsy, full-time employment (finding), history of single seizure (situation), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), seizure disorder, sepsis (disorder), sinusitis (disorder), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

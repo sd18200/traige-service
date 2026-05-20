@@ -1,0 +1,20 @@
+Unnamed: 0: 896
+age: 106
+Body Height: 178.3
+Body Mass Index: 27.4
+Body Weight: 87.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 113.0
+conditions: alzheimer's disease (disorder), anemia (disorder), appendicitis, chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), history of appendectomy, lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), only received primary school education (finding), osteoporosis (disorder), part-time employment (finding), pneumonia, prediabetes, reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), stress (finding), stroke, transport problems (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

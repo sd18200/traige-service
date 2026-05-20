@@ -1,0 +1,20 @@
+Unnamed: 0: 934
+age: 75
+Body Height: 170.0
+Body Mass Index: 28.0
+Body Weight: 80.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 95.0
+Heart rate: 60.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 153.0
+conditions: acute bronchitis (disorder), anemia (disorder), atrial fibrillation, chronic intractable migraine without aura, chronic low back pain (finding), chronic sinusitis (disorder), full-time employment (finding), hyperlipidemia, hypertension, impacted molars, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), osteoarthritis of hip, part-time employment (finding), polyp of colon, prediabetes, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

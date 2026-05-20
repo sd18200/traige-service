@@ -1,0 +1,20 @@
+Unnamed: 0: 924
+age: 48
+Body Height: 167.1
+Body Mass Index: 29.4
+Body Weight: 82.1
+Body temperature: 37.8
+Diastolic Blood Pressure: 82.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 102.0
+conditions: acute bronchitis (disorder), chronic low back pain (finding), chronic sinusitis (disorder), cystitis, full-time employment (finding), has a criminal record (finding), hypertension, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

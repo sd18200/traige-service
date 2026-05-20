@@ -1,0 +1,20 @@
+Unnamed: 0: 504
+age: 61
+Body Height: 181.0
+Body Mass Index: 30.0
+Body Weight: 98.4
+Body temperature: 37.3
+Diastolic Blood Pressure: 83.0
+Heart rate: 67.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 115.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), has a criminal record (finding), lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), transport problems (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

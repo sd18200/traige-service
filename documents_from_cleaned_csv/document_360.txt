@@ -1,0 +1,20 @@
+Unnamed: 0: 362
+age: 18
+Body Height: 157.4
+Body Mass Index: 21.7
+Body Weight: 53.7
+Body temperature: 38.2
+Diastolic Blood Pressure: 74.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 116.0
+conditions: closed fracture of hip, facial laceration, laceration of hand, streptococcal sore throat (disorder), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

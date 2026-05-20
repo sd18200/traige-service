@@ -1,0 +1,20 @@
+Unnamed: 0: 832
+age: 103
+Body Height: 187.9
+Body Mass Index: 27.8
+Body Weight: 98.3
+Body temperature: 37.3
+Diastolic Blood Pressure: 111.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 173.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, chronic sinusitis (disorder), hyperlipidemia, hypertension, limited social contact (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), stroke, unemployed (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 111.0 mmHg (HTN crisis); Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

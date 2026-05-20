@@ -1,0 +1,20 @@
+Unnamed: 0: 607
+age: 49
+Body Height: 167.7
+Body Mass Index: 30.5
+Body Weight: 85.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 123.0
+conditions: acute bacterial sinusitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), lack of access to transportation (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, part-time employment (finding), received higher education (finding), sepsis (disorder), septic shock (disorder), social isolation (finding), stress (finding), transport problems (finding), tubal pregnancy
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

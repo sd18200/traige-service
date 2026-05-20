@@ -1,0 +1,20 @@
+Unnamed: 0: 776
+age: 58
+Body Height: 180.8
+Body Mass Index: 29.6
+Body Weight: 96.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 120.0
+conditions: appendicitis, body mass index 30+ - obesity (finding), full-time employment (finding), history of appendectomy, housing unsatisfactory (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), sepsis (disorder), sprain of ankle, stress (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

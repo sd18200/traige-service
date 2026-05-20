@@ -1,0 +1,20 @@
+Unnamed: 0: 645
+age: 69
+Body Height: 168.3
+Body Mass Index: 30.5
+Body Weight: 86.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 105.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 176.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), hyperlipidemia, hypertension, limited social contact (finding), localized  primary osteoarthritis of the hand, miscarriage in first trimester, received higher education (finding), social isolation (finding), sprain of wrist, stress (finding), unemployed (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

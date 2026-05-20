@@ -1,0 +1,20 @@
+Unnamed: 0: 656
+age: 39
+Body Height: 167.1
+Body Mass Index: 29.3
+Body Weight: 81.8
+Body temperature: 37.1
+Diastolic Blood Pressure: 107.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 144.0
+conditions: acute viral pharyngitis (disorder), chronic low back pain (finding), chronic neck pain (finding), cystitis, full-time employment (finding), housing unsatisfactory (finding), hypertension, normal pregnancy, part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), whiplash injury to neck
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

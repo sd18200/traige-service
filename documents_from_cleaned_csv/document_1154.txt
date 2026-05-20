@@ -1,0 +1,20 @@
+Unnamed: 0: 1159
+age: 60
+Body Height: 165.3
+Body Mass Index: 28.1
+Body Weight: 76.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 132.0
+conditions: acute bronchitis (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), misuses drugs (finding), neuropathy due to type 2 diabetes mellitus (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

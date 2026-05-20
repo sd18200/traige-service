@@ -1,0 +1,20 @@
+Unnamed: 0: 338
+age: 7
+Body Height: 97.2
+Body Mass Index: 16.3
+Body Weight: 15.6
+Body temperature: 41.0
+Diastolic Blood Pressure: 89.0
+Heart rate: 150.8
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 34.3
+Systolic Blood Pressure: 115.0
+conditions: covid-19, cough (finding), otitis media, sputum finding (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: HR 150.8 bpm (tachycardia); RR 34.3 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

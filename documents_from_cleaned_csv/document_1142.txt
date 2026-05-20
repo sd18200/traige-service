@@ -1,0 +1,20 @@
+Unnamed: 0: 1146
+age: 69
+Body Height: 158.1
+Body Mass Index: 28.5
+Body Weight: 71.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 103.0
+conditions: anemia (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), fracture of ankle, full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hyperlipidemia, hypertriglyceridemia (disorder), injury of medial collateral ligament of knee, limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, reports of violence in the environment (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 103.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

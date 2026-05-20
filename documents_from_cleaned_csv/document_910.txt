@@ -1,0 +1,20 @@
+Unnamed: 0: 913
+age: 12
+Body Height: 132.5
+Body Mass Index: 16.1
+Body Weight: 28.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), coronary heart disease, laceration of forearm, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

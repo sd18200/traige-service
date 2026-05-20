@@ -1,0 +1,20 @@
+Unnamed: 0: 953
+age: 71
+Body Height: 160.8
+Body Mass Index: 27.5
+Body Weight: 71.1
+Body temperature: 39.9
+Diastolic Blood Pressure: 103.0
+Heart rate: 71.2
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 25.4
+Systolic Blood Pressure: 150.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), covid-19, chronic intractable migraine without aura, chronic low back pain (finding), cough (finding), diarrhea symptom (finding), fever (finding), fibromyalgia (disorder), full-time employment (finding), hyperlipidemia, hypertension, injury of medial collateral ligament of knee, limited social contact (finding), miscarriage in first trimester, part-time employment (finding), received higher education (finding), refugee (person), social isolation (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: RR 25.4 bpm; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

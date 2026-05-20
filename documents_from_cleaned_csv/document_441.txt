@@ -1,0 +1,20 @@
+Unnamed: 0: 443
+age: 110
+Body Height: 178.3
+Body Mass Index: 28.7
+Body Weight: 91.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 109.0
+conditions: alcoholism, carcinoma in situ of prostate (disorder), full-time employment (finding), housing unsatisfactory (finding), hyperlipidemia, limited social contact (finding), misuses drugs (finding), neoplasm of prostate, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), sepsis (disorder), served in armed forces (finding), stress (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

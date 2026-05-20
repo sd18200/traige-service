@@ -1,0 +1,20 @@
+Unnamed: 0: 85
+age: 66
+Body Height: 176.7
+Body Mass Index: 29.1
+Body Weight: 90.8
+Body temperature: 38.0
+Diastolic Blood Pressure: 71.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 116.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic intractable migraine without aura, full-time employment (finding), hyperlipidemia, limited social contact (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), transformed migraine (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

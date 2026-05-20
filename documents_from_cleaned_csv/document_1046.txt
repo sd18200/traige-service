@@ -1,0 +1,20 @@
+Unnamed: 0: 1049
+age: 56
+Body Height: 186.8
+Body Mass Index: 23.4
+Body Weight: 81.8
+Body temperature: 36.4
+Diastolic Blood Pressure: 81.0
+Heart rate: 96.4
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 17.9
+Systolic Blood Pressure: 112.0
+conditions: acute cholecystitis, acute respiratory failure (disorder), covid-19, cholelithiasis, chronic neck pain (finding), cough (finding), fever (finding), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hypoxemia (disorder), limited social contact (finding), part-time employment (finding), pneumonia (disorder), received certificate of high school equivalency (finding), respiratory distress (finding), risk activity involvement (finding), sepsis (disorder), sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

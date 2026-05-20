@@ -1,0 +1,20 @@
+Unnamed: 0: 812
+age: 35
+Body Height: 175.5
+Body Mass Index: 26.3
+Body Weight: 80.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 85.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 122.0
+conditions: chronic intractable migraine without aura, chronic pain, cystitis, drug overdose, full-time employment (finding), hypertension, impacted molars, laceration of thigh, limited social contact (finding), miscarriage in first trimester, misuses drugs (finding), normal pregnancy, only received primary school education (finding), part-time employment (finding), second degree burn, social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

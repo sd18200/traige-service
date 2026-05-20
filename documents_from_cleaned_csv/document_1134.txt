@@ -1,0 +1,20 @@
+Unnamed: 0: 1138
+age: 49
+Body Height: 174.7
+Body Mass Index: 30.4
+Body Weight: 92.7
+Body temperature: 37.5
+Diastolic Blood Pressure: 85.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 113.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), localized  primary osteoarthritis of the hand, not in labor force (finding), otitis media, received higher education (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 791
+age: 63
+Body Height: 171.6
+Body Mass Index: 23.2
+Body Weight: 68.3
+Body temperature: 37.4
+Diastolic Blood Pressure: 76.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 127.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), cardiac arrest, coronary heart disease, facial laceration, full-time employment (finding), history of cardiac arrest (situation), history of myocardial infarction (situation), limited social contact (finding), miscarriage in first trimester, misuses drugs (finding), myocardial infarction, normal pregnancy, not in labor force (finding), received higher education (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction; Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

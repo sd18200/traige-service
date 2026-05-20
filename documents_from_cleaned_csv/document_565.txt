@@ -1,0 +1,20 @@
+Unnamed: 0: 568
+age: 56
+Body Height: 166.8
+Body Mass Index: 27.5
+Body Weight: 76.6
+Body temperature: 38.8
+Diastolic Blood Pressure: 110.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 153.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic kidney disease stage 1 (disorder), chronic low back pain (finding), chronic sinusitis (disorder), diabetes, diabetic renal disease (disorder), fracture subluxation of wrist, full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), misuses drugs (finding), only received primary school education (finding), part-time employment (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

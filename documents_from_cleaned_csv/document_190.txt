@@ -1,0 +1,20 @@
+Unnamed: 0: 191
+age: 45
+Body Height: 154.6
+Body Mass Index: 25.3
+Body Weight: 60.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 70.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 105.0
+conditions: anemia (disorder), full-time employment (finding), misuses drugs (finding), normal pregnancy, otitis media, prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 105.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

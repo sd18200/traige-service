@@ -1,0 +1,20 @@
+Unnamed: 0: 739
+age: 93
+Body Height: 175.6
+Body Mass Index: 27.6
+Body Weight: 85.1
+Body temperature: 38.7
+Diastolic Blood Pressure: 116.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 164.0
+conditions: alzheimer's disease (disorder), anemia (disorder), body mass index 30+ - obesity (finding), covid-19, chronic kidney disease stage 1 (disorder), chronic sinusitis (disorder), cough (finding), diabetes, diabetic renal disease (disorder), fatigue (finding), fever (finding), fracture of ankle, full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hyperlipidemia, hypertension, hypertriglyceridemia (disorder), joint pain (finding), limited social contact (finding), metabolic syndrome x (disorder), muscle pain (finding), neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), only received primary school education (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), prediabetes, reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), sore throat symptom (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 116.0 mmHg (HTN crisis)
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

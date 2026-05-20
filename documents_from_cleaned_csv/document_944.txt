@@ -1,0 +1,20 @@
+Unnamed: 0: 947
+age: 64
+Body Height: 175.4
+Body Mass Index: 28.2
+Body Weight: 86.7
+Body temperature: 38.2
+Diastolic Blood Pressure: 73.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 126.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), fracture of forearm, full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), unhealthy alcohol drinking behavior (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

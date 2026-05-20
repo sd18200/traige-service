@@ -1,0 +1,20 @@
+Unnamed: 0: 677
+age: 6
+Body Height: 89.8
+Body Mass Index: 14.8
+Body Weight: 11.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 110.0
+conditions: nan
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

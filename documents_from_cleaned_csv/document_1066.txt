@@ -1,0 +1,20 @@
+Unnamed: 0: 1069
+age: 15
+Body Height: 146.0
+Body Mass Index: 17.0
+Body Weight: 36.2
+Body temperature: 37.6
+Diastolic Blood Pressure: 80.0
+Heart rate: 93.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 106.0
+conditions: acute viral pharyngitis (disorder), child attention deficit disorder, otitis media, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

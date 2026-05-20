@@ -1,0 +1,20 @@
+Unnamed: 0: 874
+age: 63
+Body Height: 106.2
+Body Mass Index: 14.7
+Body Weight: 16.6
+Body temperature: 37.9
+Diastolic Blood Pressure: 82.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 110.0
+conditions: acute viral pharyngitis (disorder), history of single seizure (situation), otitis media, seizure disorder, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

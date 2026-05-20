@@ -1,0 +1,20 @@
+Unnamed: 0: 894
+age: 82
+Body Height: 170.6
+Body Mass Index: 30.4
+Body Weight: 88.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 88.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 121.0
+conditions: body mass index 30+ - obesity (finding), chronic sinusitis (disorder), familial alzheimer's disease of early onset (disorder), full-time employment (finding), hypertension, not in labor force (finding), part-time employment (finding), received higher education (finding), sepsis (disorder), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

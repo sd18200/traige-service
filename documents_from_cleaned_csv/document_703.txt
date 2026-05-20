@@ -1,0 +1,20 @@
+Unnamed: 0: 706
+age: 14
+Body Height: 143.7
+Body Mass Index: 15.2
+Body Weight: 31.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 128.0
+conditions: child attention deficit disorder, otitis media, sprain of wrist, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

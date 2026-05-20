@@ -1,0 +1,20 @@
+Unnamed: 0: 307
+age: 84
+Body Height: 178.8
+Body Mass Index: 27.5
+Body Weight: 88.0
+Body temperature: 37.2
+Diastolic Blood Pressure: 84.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 109.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic congestive heart failure (disorder), diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), hyperglycemia (disorder), hypertriglyceridemia (disorder), limited social contact (finding), macular edema and retinopathy due to type 2 diabetes mellitus (disorder), metabolic syndrome x (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), prediabetes, received higher education (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 109.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

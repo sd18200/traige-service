@@ -1,0 +1,20 @@
+Unnamed: 0: 731
+age: 68
+Body Height: 152.0
+Body Mass Index: 27.7
+Body Weight: 63.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 88.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 116.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), concussion with no loss of consciousness, full-time employment (finding), housing unsatisfactory (finding), hyperlipidemia, limited social contact (finding), miscarriage in first trimester, osteoarthritis of knee, part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), sinusitis (disorder), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

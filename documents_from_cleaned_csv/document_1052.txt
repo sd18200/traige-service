@@ -1,0 +1,20 @@
+Unnamed: 0: 1055
+age: 25
+Body Height: 184.9
+Body Mass Index: 18.7
+Body Weight: 64.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), fracture of rib, full-time employment (finding), hypertension, part-time employment (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

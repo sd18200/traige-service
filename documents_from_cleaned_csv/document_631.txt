@@ -1,0 +1,20 @@
+Unnamed: 0: 634
+age: 67
+Body Height: 158.5
+Body Mass Index: 28.1
+Body Weight: 70.6
+Body temperature: 37.5
+Diastolic Blood Pressure: 76.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 112.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), polyp of colon, primary malignant neoplasm of colon, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), sprain of wrist, stress (finding), whiplash injury to neck
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

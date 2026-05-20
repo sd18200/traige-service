@@ -1,0 +1,20 @@
+Unnamed: 0: 81
+age: 58
+Body Height: 169.7
+Body Mass Index: 27.7
+Body Weight: 79.7
+Body temperature: 37.2
+Diastolic Blood Pressure: 72.0
+Heart rate: 60.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 115.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), hypertension, laceration of thigh, limited social contact (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

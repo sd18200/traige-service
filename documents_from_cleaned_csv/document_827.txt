@@ -1,0 +1,20 @@
+Unnamed: 0: 830
+age: 58
+Body Height: 173.9
+Body Mass Index: 28.3
+Body Weight: 85.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 101.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 156.0
+conditions: acute bronchitis (disorder), anemia (disorder), first degree burn, full-time employment (finding), has a criminal record (finding), hypertension, limited social contact (finding), non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), sepsis (disorder), social isolation (finding), stress (finding), suspected lung cancer (situation), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 453
+age: 72
+Body Height: 176.3
+Body Mass Index: 27.7
+Body Weight: 86.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 101.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 147.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), drug overdose, escherichia coli urinary tract infection, full-time employment (finding), hyperlipidemia, hypertension, limited social contact (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 1033
+age: 112
+Body Height: 167.1
+Body Mass Index: 21.1
+Body Weight: 58.8
+Body temperature: 37.8
+Diastolic Blood Pressure: 85.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 104.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), full-time employment (finding), limited social contact (finding), non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), osteoarthritis of knee, part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), suspected lung cancer (situation)
+triage_level: 1
+triage_reason: SBP 104.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

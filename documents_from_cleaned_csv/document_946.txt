@@ -1,0 +1,20 @@
+Unnamed: 0: 949
+age: 25
+Body Height: 161.4
+Body Mass Index: 26.9
+Body Weight: 70.1
+Body temperature: 40.5
+Diastolic Blood Pressure: 72.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 102.0
+conditions: acute bronchitis (disorder), covid-19, chill (finding), fever (finding), full-time employment (finding), history of single seizure (situation), hypertension, otitis media, received higher education (finding), risk activity involvement (finding), seizure disorder, severe anxiety (panic) (finding, social isolation (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

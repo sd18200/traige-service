@@ -1,0 +1,20 @@
+Unnamed: 0: 1046
+age: 84
+Body Height: 169.1
+Body Mass Index: 27.5
+Body Weight: 78.6
+Body temperature: 37.9
+Diastolic Blood Pressure: 96.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 157.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), atrial fibrillation, chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), drug overdose, full-time employment (finding), hyperlipidemia, hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), polyp of colon, prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

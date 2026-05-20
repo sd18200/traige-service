@@ -1,0 +1,20 @@
+Unnamed: 0: 716
+age: 40
+Body Height: 176.7
+Body Mass Index: 28.9
+Body Weight: 90.1
+Body temperature: 37.1
+Diastolic Blood Pressure: 88.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 110.0
+conditions: acute viral pharyngitis (disorder), cardiac arrest, chronic neck pain (finding), fracture subluxation of wrist, full-time employment (finding), history of cardiac arrest (situation), limited social contact (finding), only received primary school education (finding), part-time employment (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

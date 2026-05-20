@@ -1,0 +1,20 @@
+Unnamed: 0: 389
+age: 69
+Body Height: 176.8
+Body Mass Index: 28.1
+Body Weight: 87.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 74.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 113.0
+conditions: anemia (disorder), chronic intractable migraine without aura, chronic pain, chronic sinusitis (disorder), drug overdose, full-time employment (finding), has a criminal record (finding), impacted molars, not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, refugee (person), social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

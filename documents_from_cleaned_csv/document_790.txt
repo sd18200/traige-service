@@ -1,0 +1,20 @@
+Unnamed: 0: 793
+age: 106
+Body Height: 155.0
+Body Mass Index: 27.6
+Body Weight: 66.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 117.0
+conditions: acute bronchitis (disorder), alzheimer's disease (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), facial laceration, full-time employment (finding), has a criminal record (finding), lack of access to transportation (finding), limited social contact (finding), miscarriage in first trimester, part-time employment (finding), pneumonia, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), sprain of ankle, stress (finding), stroke, transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

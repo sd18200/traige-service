@@ -1,0 +1,20 @@
+Unnamed: 0: 886
+age: 108
+Body Height: 164.3
+Body Mass Index: 27.6
+Body Weight: 74.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 112.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 178.0
+conditions: acute bacterial sinusitis (disorder), alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), fracture of forearm, full-time employment (finding), has a criminal record (finding), hypertension, limited social contact (finding), neoplasm of prostate, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), prediabetes, received higher education (finding), risk activity involvement (finding), served in armed forces (finding), social isolation (finding), sprain of ankle, stress (finding), stroke, victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: DBP 112.0 mmHg (HTN crisis); Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 935
+age: 73
+Body Height: 174.8
+Body Mass Index: 29.3
+Body Weight: 89.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 111.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic congestive heart failure (disorder), full-time employment (finding), housing unsatisfactory (finding), hyperlipidemia, only received primary school education (finding), osteoarthritis of hip, part-time employment (finding), reports of violence in the environment (finding), social isolation (finding), sprain of ankle, stress (finding), unhealthy alcohol drinking behavior (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

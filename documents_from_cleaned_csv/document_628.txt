@@ -1,0 +1,20 @@
+Unnamed: 0: 631
+age: 81
+Body Height: 159.0
+Body Mass Index: 30.3
+Body Weight: 76.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 102.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 144.0
+conditions: acute bronchitis (disorder), atopic dermatitis, body mass index 30+ - obesity (finding), chronic pain, chronic sinusitis (disorder), fracture of ankle, fracture of clavicle, full-time employment (finding), has a criminal record (finding), hyperlipidemia, hypertension, laceration of foot, limited social contact (finding), miscarriage in first trimester, part-time employment (finding), pulmonary emphysema (disorder), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), sinusitis (disorder), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 368
+age: 60
+Body Height: 180.4
+Body Mass Index: 28.8
+Body Weight: 93.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 110.0
+conditions: body mass index 30+ - obesity (finding), fracture subluxation of wrist, full-time employment (finding), limited social contact (finding), misuses drugs (finding), only received primary school education (finding), part-time employment (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

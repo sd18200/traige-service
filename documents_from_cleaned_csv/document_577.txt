@@ -1,0 +1,20 @@
+Unnamed: 0: 580
+age: 66
+Body Height: 177.2
+Body Mass Index: 22.3
+Body Weight: 70.0
+Body temperature: 37.0
+Diastolic Blood Pressure: 78.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 125.0
+conditions: acute viral pharyngitis (disorder), coronary heart disease, full-time employment (finding), limited social contact (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

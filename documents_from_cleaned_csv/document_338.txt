@@ -1,0 +1,20 @@
+Unnamed: 0: 339
+age: 55
+Body Height: 167.5
+Body Mass Index: 30.2
+Body Weight: 84.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 129.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), brain damage - traumatic, hypertension, limited social contact (finding), normal pregnancy, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), unemployed (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

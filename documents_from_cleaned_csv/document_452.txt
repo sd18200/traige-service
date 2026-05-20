@@ -1,0 +1,20 @@
+Unnamed: 0: 454
+age: 50
+Body Height: 148.2
+Body Mass Index: 30.0
+Body Weight: 65.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 95.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 149.0
+conditions: acute bacterial sinusitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), diabetes, full-time employment (finding), has a criminal record (finding), hypertension, hypertriglyceridemia (disorder), metabolic syndrome x (disorder), miscarriage in first trimester, misuses drugs (finding), part-time employment (finding), received higher education (finding), refugee (person), risk activity involvement (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

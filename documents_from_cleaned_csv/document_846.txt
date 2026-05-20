@@ -1,0 +1,20 @@
+Unnamed: 0: 849
+age: 23
+Body Height: 148.1
+Body Mass Index: 44.0
+Body Weight: 96.5
+Body temperature: 37.8
+Diastolic Blood Pressure: 85.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 132.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), body mass index 40+ - severely obese (finding), full-time employment (finding), hypertension, normal pregnancy, not in labor force (finding), received higher education (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 529
+age: 39
+Body Height: 158.3
+Body Mass Index: 29.9
+Body Weight: 76.6
+Body temperature: 36.7
+Diastolic Blood Pressure: 83.0
+Heart rate: 59.4
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 18.6
+Systolic Blood Pressure: 128.0
+conditions: acute deep venous thrombosis (disorder), acute viral pharyngitis (disorder), anemia (disorder), covid-19, closed fracture of hip, cough (finding), diabetes, escherichia coli urinary tract infection, facial laceration, fever (finding), hypertriglyceridemia (disorder), hypoxemia (disorder), limited social contact (finding), miscarriage in first trimester, pneumonia (disorder), received higher education (finding), respiratory distress (finding), sputum finding (finding), stress (finding), suspected covid-19, tubal pregnancy, unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

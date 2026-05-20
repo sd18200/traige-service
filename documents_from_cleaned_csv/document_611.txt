@@ -1,0 +1,20 @@
+Unnamed: 0: 614
+age: 24
+Body Height: 159.2
+Body Mass Index: 20.2
+Body Weight: 51.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 108.0
+conditions: full-time employment (finding), housing unsatisfactory (finding), hypertension, part-time employment (finding), received higher education (finding), sprain of ankle, stress (finding)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

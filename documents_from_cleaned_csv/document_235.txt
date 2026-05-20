@@ -1,0 +1,20 @@
+Unnamed: 0: 236
+age: 79
+Body Height: 173.9
+Body Mass Index: 27.6
+Body Weight: 83.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 111.0
+conditions: appendicitis, chronic intractable migraine without aura, chronic pain, drug overdose, facial laceration, history of appendectomy, impacted molars, limited social contact (finding), malignant neoplasm of breast (disorder), miscarriage in first trimester, osteoporosis (disorder), received certificate of high school equivalency (finding), rupture of appendix, social isolation (finding), sprain of ankle, stress (finding), unemployed (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

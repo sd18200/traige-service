@@ -1,0 +1,20 @@
+Unnamed: 0: 136
+age: 13
+Body Height: 133.1
+Body Mass Index: 16.7
+Body Weight: 29.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 106.0
+conditions: fracture of forearm, otitis media, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

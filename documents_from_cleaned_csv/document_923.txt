@@ -1,0 +1,20 @@
+Unnamed: 0: 926
+age: 108
+Body Height: 193.3
+Body Mass Index: 27.7
+Body Weight: 103.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), alcoholism, anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic kidney disease stage 1 (disorder), concussion with loss of consciousness, coronary heart disease, diabetes, diabetic renal disease (disorder), full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), neoplasm of prostate, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), served in armed forces (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

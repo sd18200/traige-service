@@ -1,0 +1,20 @@
+Unnamed: 0: 921
+age: 14
+Body Height: 139.5
+Body Mass Index: 16.5
+Body Weight: 32.0
+Body temperature: 39.0
+Diastolic Blood Pressure: 80.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 111.0
+conditions: acute bacterial sinusitis (disorder), otitis media, sprain of wrist, streptococcal sore throat (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

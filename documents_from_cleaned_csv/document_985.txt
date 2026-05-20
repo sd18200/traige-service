@@ -1,0 +1,20 @@
+Unnamed: 0: 988
+age: 49
+Body Height: 173.3
+Body Mass Index: 29.6
+Body Weight: 88.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 80.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 55.5
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), full-time employment (finding), limited social contact (finding), part-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), sepsis (disorder), stress (finding)
+triage_level: 2
+triage_reason: SBP 55.5 mmHg (shock); Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

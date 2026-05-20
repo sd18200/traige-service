@@ -1,0 +1,20 @@
+Unnamed: 0: 391
+age: 12
+Body Height: 137.4
+Body Mass Index: 20.1
+Body Weight: 37.9
+Body temperature: 37.5
+Diastolic Blood Pressure: 80.0
+Heart rate: 76.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 136.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), chronic sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

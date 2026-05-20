@@ -1,0 +1,20 @@
+Unnamed: 0: 800
+age: 23
+Body Height: 167.3
+Body Mass Index: 25.2
+Body Weight: 70.5
+Body temperature: 40.9
+Diastolic Blood Pressure: 114.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 174.0
+conditions: covid-19, chronic sinusitis (disorder), dyspnea (finding), fever (finding), full-time employment (finding), hypertension, laceration of forearm, limited social contact (finding), nasal congestion (finding), normal pregnancy, not in labor force (finding), only received primary school education (finding), part-time employment (finding), risk activity involvement (finding), severe anxiety (panic) (finding, sinusitis (disorder), social isolation (finding), stress (finding), suspected covid-19, viral sinusitis (disorder), wheezing (finding)
+triage_level: 2
+triage_reason: DBP 114.0 mmHg (HTN crisis)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

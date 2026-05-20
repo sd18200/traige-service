@@ -1,0 +1,20 @@
+Unnamed: 0: 394
+age: 68
+Body Height: 156.3
+Body Mass Index: 28.7
+Body Weight: 70.1
+Body temperature: 37.1
+Diastolic Blood Pressure: 80.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 111.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), laceration of hand, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), polyp of colon, received higher education (finding), risk activity involvement (finding), second degree burn, sepsis (disorder), sprain of ankle, stress (finding), tubal pregnancy, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

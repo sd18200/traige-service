@@ -1,0 +1,20 @@
+Unnamed: 0: 181
+age: 38
+Body Height: 163.3
+Body Mass Index: 29.2
+Body Weight: 77.9
+Body temperature: 37.0
+Diastolic Blood Pressure: 75.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 113.0
+conditions: acute viral pharyngitis (disorder), fetus with unknown complication, limited social contact (finding), miscarriage in first trimester, normal pregnancy, only received primary school education (finding), prediabetes, reports of violence in the environment (finding), sinusitis (disorder), social isolation (finding), stress (finding), unemployed (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

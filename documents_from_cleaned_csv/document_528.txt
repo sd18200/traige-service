@@ -1,0 +1,20 @@
+Unnamed: 0: 531
+age: 73
+Body Height: 169.5
+Body Mass Index: 26.4
+Body Weight: 75.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), housing unsatisfactory (finding), hyperlipidemia, lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), prediabetes, received higher education (finding), stress (finding), stroke, transport problems (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

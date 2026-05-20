@@ -1,0 +1,20 @@
+Unnamed: 0: 366
+age: 98
+Body Height: 168.8
+Body Mass Index: 27.7
+Body Weight: 78.9
+Body temperature: 37.9
+Diastolic Blood Pressure: 79.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 112.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), full-time employment (finding), has a criminal record (finding), hyperlipidemia, hypertension, injury of tendon of the rotator cuff of shoulder, limited social contact (finding), not in labor force (finding), osteoarthritis of knee, osteoporosis (disorder), part-time employment (finding), pneumonia, prediabetes, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

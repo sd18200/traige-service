@@ -1,0 +1,20 @@
+Unnamed: 0: 717
+age: 111
+Body Height: 164.3
+Body Mass Index: 27.8
+Body Weight: 74.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 116.0
+conditions: acute bronchitis (disorder), alzheimer's disease (disorder), anemia (disorder), chronic sinusitis (disorder), diabetes, full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hyperlipidemia, hypertriglyceridemia (disorder), lack of access to transportation (finding), limited social contact (finding), metabolic syndrome x (disorder), not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

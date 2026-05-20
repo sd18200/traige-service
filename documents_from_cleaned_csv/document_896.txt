@@ -1,0 +1,20 @@
+Unnamed: 0: 899
+age: 108
+Body Height: 179.6
+Body Mass Index: 27.8
+Body Weight: 89.5
+Body temperature: 37.3
+Diastolic Blood Pressure: 113.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 153.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), has a criminal record (finding), hypertension, limited social contact (finding), neoplasm of prostate, received higher education (finding), reports of violence in the environment (finding), served in armed forces (finding), smokes tobacco daily, social isolation (finding), stress (finding), stroke, unemployed (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 113.0 mmHg (HTN crisis); Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 1085
+age: 76
+Body Height: 183.9
+Body Mass Index: 27.9
+Body Weight: 94.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), fracture of clavicle, full-time employment (finding), lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), only received primary school education (finding), opioid abuse (disorder), part-time employment (finding), prediabetes, risk activity involvement (finding), social isolation (finding), stress (finding), transport problems (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

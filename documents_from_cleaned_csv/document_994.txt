@@ -1,0 +1,20 @@
+Unnamed: 0: 997
+age: 22
+Body Height: 152.5
+Body Mass Index: 18.5
+Body Weight: 43.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 100.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), limited social contact (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), sprain of ankle, transport problems (finding)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

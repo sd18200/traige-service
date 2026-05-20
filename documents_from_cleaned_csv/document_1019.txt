@@ -1,0 +1,20 @@
+Unnamed: 0: 1022
+age: 22
+Body Height: 184.3
+Body Mass Index: 37.2
+Body Weight: 126.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 86.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 116.0
+conditions: body mass index 30+ - obesity (finding), full-time employment (finding), housing unsatisfactory (finding), laceration of thigh, not in labor force (finding), perennial allergic rhinitis, received higher education (finding), risk activity involvement (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

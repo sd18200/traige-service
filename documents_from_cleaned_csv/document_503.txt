@@ -1,0 +1,20 @@
+Unnamed: 0: 505
+age: 6
+Body Height: 93.9
+Body Mass Index: 13.9
+Body Weight: 12.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 80.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 118.0
+conditions: otitis media
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 895
+age: 82
+Body Height: 162.7
+Body Mass Index: 28.1
+Body Weight: 74.3
+Body temperature: 38.8
+Diastolic Blood Pressure: 75.0
+Heart rate: 50.1
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.2
+Systolic Blood Pressure: 104.0
+conditions: acquired coagulation disorder (disorder), acute bacterial sinusitis (disorder), acute deep venous thrombosis (disorder), acute respiratory distress syndrome (disorder), acute respiratory failure (disorder), anemia (disorder), covid-19, chronic sinusitis (disorder), cough (finding), fatigue (finding), fever (finding), hypoxemia (disorder), injury of heart (disorder), limited social contact (finding), miscarriage in first trimester, osteoarthritis of knee, pneumonia (disorder), prediabetes, pulmonary emphysema (disorder), received higher education (finding), respiratory distress (finding), sepsis caused by virus (disorder), septic shock (disorder), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, unemployed (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

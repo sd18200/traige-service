@@ -1,0 +1,20 @@
+Unnamed: 0: 225
+age: 56
+Body Height: 167.1
+Body Mass Index: 30.2
+Body Weight: 84.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 111.0
+conditions: antepartum eclampsia, body mass index 30+ - obesity (finding), full-time employment (finding), hypertension, lack of access to transportation (finding), normal pregnancy, part-time employment (finding), polyp of colon, received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), sprain of ankle, stress (finding), transport problems (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

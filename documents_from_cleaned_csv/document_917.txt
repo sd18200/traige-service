@@ -1,0 +1,20 @@
+Unnamed: 0: 920
+age: 43
+Body Height: 180.0
+Body Mass Index: 27.7
+Body Weight: 89.6
+Body temperature: 37.1
+Diastolic Blood Pressure: 105.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 190.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), concussion with no loss of consciousness, full-time employment (finding), has a criminal record (finding), hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

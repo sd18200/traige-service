@@ -1,0 +1,20 @@
+Unnamed: 0: 967
+age: 55
+Body Height: 159.4
+Body Mass Index: 27.8
+Body Weight: 70.6
+Body temperature: 37.2
+Diastolic Blood Pressure: 85.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 101.4
+conditions: acute respiratory distress syndrome (disorder), acute viral pharyngitis (disorder), blighted ovum, body mass index 30+ - obesity (finding), fetus with unknown complication, full-time employment (finding), miscarriage in first trimester, normal pregnancy, part-time employment (finding), received higher education (finding), sepsis (disorder), septic shock (disorder), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

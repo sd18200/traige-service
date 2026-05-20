@@ -1,0 +1,20 @@
+Unnamed: 0: 1045
+age: 22
+Body Height: 166.1
+Body Mass Index: 27.1
+Body Weight: 74.6
+Body temperature: 37.2
+Diastolic Blood Pressure: 80.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), child attention deficit disorder, chronic low back pain (finding), concussion with loss of consciousness, fibromyalgia (disorder), full-time employment (finding), limited social contact (finding), received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

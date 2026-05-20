@@ -1,0 +1,20 @@
+Unnamed: 0: 728
+age: 32
+Body Height: 158.3
+Body Mass Index: 27.0
+Body Weight: 67.7
+Body temperature: 37.4
+Diastolic Blood Pressure: 81.0
+Heart rate: 86.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 114.0
+conditions: acute viral pharyngitis (disorder), full-time employment (finding), normal pregnancy, not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

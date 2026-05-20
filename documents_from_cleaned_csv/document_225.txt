@@ -1,0 +1,20 @@
+Unnamed: 0: 226
+age: 18
+Body Height: 161.6
+Body Mass Index: 20.4
+Body Weight: 53.3
+Body temperature: 37.0
+Diastolic Blood Pressure: 79.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 103.0
+conditions: acute viral pharyngitis (disorder), childhood asthma, coronary heart disease, fracture subluxation of wrist, otitis media, perennial allergic rhinitis with seasonal variation, risk activity involvement (finding)
+triage_level: 1
+triage_reason: SBP 103.0 mmHg; Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

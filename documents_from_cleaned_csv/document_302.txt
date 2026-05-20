@@ -1,0 +1,20 @@
+Unnamed: 0: 303
+age: 31
+Body Height: 172.9
+Body Mass Index: 29.2
+Body Weight: 87.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 116.0
+conditions: anemia (disorder), contact dermatitis, full-time employment (finding), laceration of thigh, limited social contact (finding), normal pregnancy, prediabetes, received higher education (finding), risk activity involvement (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 477
+age: 52
+Body Height: 159.4
+Body Mass Index: 28.8
+Body Weight: 73.1
+Body temperature: 37.5
+Diastolic Blood Pressure: 115.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 150.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic kidney disease stage 1 (disorder), chronic sinusitis (disorder), diabetes, diabetic renal disease (disorder), full-time employment (finding), housing unsatisfactory (finding), hyperglycemia (disorder), hypertension, hypertriglyceridemia (disorder), lack of access to transportation (finding), metabolic syndrome x (disorder), miscarriage in first trimester, normal pregnancy, not in labor force (finding), only received primary school education (finding), part-time employment (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), transport problems (finding), tubal pregnancy, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 115.0 mmHg (HTN crisis)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

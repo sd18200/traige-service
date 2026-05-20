@@ -1,0 +1,20 @@
+Unnamed: 0: 28
+age: 66
+Body Height: 160.3
+Body Mass Index: 29.4
+Body Weight: 75.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 126.0
+conditions: acute bronchitis (disorder), anemia (disorder), diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hypertriglyceridemia (disorder), metabolic syndrome x (disorder), neuropathy due to type 2 diabetes mellitus (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), sepsis (disorder), severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 692
+age: 74
+Body Height: 165.3
+Body Mass Index: 29.0
+Body Weight: 79.2
+Body temperature: 37.9
+Diastolic Blood Pressure: 83.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), coronary heart disease, fracture of ankle, full-time employment (finding), history of myocardial infarction (situation), limited social contact (finding), myocardial infarction, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

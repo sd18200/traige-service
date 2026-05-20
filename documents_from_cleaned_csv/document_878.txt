@@ -1,0 +1,20 @@
+Unnamed: 0: 881
+age: 106
+Body Height: 177.4
+Body Mass Index: 27.3
+Body Weight: 85.9
+Body temperature: 37.6
+Diastolic Blood Pressure: 78.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 132.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), only received primary school education (finding), part-time employment (finding), prediabetes, served in armed forces (finding), smokes tobacco daily, social isolation (finding), stress (finding), suspected lung cancer (situation), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

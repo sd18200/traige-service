@@ -1,0 +1,20 @@
+Unnamed: 0: 698
+age: 93
+Body Height: 168.0
+Body Mass Index: 27.9
+Body Weight: 78.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 121.0
+conditions: alzheimer's disease (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic sinusitis (disorder), has a criminal record (finding), housing unsatisfactory (finding), hyperlipidemia, limited social contact (finding), only received primary school education (finding), pneumonia, reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), stress (finding), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

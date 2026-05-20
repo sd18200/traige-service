@@ -1,0 +1,20 @@
+Unnamed: 0: 19
+age: 24
+Body Height: 170.9
+Body Mass Index: 24.4
+Body Weight: 71.2
+Body temperature: 36.1
+Diastolic Blood Pressure: 78.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 100.0
+conditions: acute bronchitis (disorder), acute deep venous thrombosis (disorder), acute viral pharyngitis (disorder), covid-19, chronic low back pain (finding), cough (finding), dyspnea (finding), fatigue (finding), fever (finding), full-time employment (finding), hypoxemia (disorder), laceration of foot, limited social contact (finding), loss of taste (finding), normal pregnancy, part-time employment (finding), pneumonia (disorder), received higher education (finding), respiratory distress (finding), sprain of wrist, stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder), wheezing (finding)
+triage_level: 1
+triage_reason: SBP 100.0 mmHg; Condition: pneumonia
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

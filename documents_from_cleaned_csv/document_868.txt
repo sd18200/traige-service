@@ -1,0 +1,20 @@
+Unnamed: 0: 871
+age: 108
+Body Height: 180.4
+Body Mass Index: 28.2
+Body Weight: 91.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 106.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic congestive heart failure (disorder), chronic sinusitis (disorder), coronary heart disease, full-time employment (finding), laceration of foot, part-time employment (finding), prediabetes, received higher education (finding), risk activity involvement (finding), shock (disorder), sinusitis (disorder), social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

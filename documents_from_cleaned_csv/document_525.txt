@@ -1,0 +1,20 @@
+Unnamed: 0: 528
+age: 34
+Body Height: 174.5
+Body Mass Index: 26.9
+Body Weight: 81.9
+Body temperature: 38.0
+Diastolic Blood Pressure: 72.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 134.0
+conditions: anemia (disorder), covid-19, chronic sinusitis (disorder), cough (finding), fever (finding), full-time employment (finding), headache (finding), joint pain (finding), loss of taste (finding), muscle pain (finding), part-time employment (finding), prediabetes, received higher education (finding), sinusitis (disorder), social isolation (finding), sore throat symptom (finding), stress (finding), suspected covid-19
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

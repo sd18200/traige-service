@@ -1,0 +1,20 @@
+Unnamed: 0: 86
+age: 66
+Body Height: 179.8
+Body Mass Index: 21.2
+Body Weight: 68.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 104.0
+conditions: anemia (disorder), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hypertension, laceration of hand, limited social contact (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, refugee (person), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 104.0 mmHg; Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

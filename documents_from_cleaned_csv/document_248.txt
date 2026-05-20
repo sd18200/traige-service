@@ -1,0 +1,20 @@
+Unnamed: 0: 249
+age: 13
+Body Height: 126.8
+Body Mass Index: 19.3
+Body Weight: 31.1
+Body temperature: 37.1
+Diastolic Blood Pressure: 83.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 118.0
+conditions: acute viral pharyngitis (disorder), concussion with no loss of consciousness, otitis media, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

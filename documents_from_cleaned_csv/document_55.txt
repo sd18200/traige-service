@@ -1,0 +1,20 @@
+Unnamed: 0: 55
+age: 14
+Body Height: 138.2
+Body Mass Index: 17.7
+Body Weight: 33.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 114.0
+conditions: fracture subluxation of wrist
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

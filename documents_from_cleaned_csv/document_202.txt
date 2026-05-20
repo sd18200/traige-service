@@ -1,0 +1,20 @@
+Unnamed: 0: 203
+age: 70
+Body Height: 167.3
+Body Mass Index: 30.3
+Body Weight: 84.9
+Body temperature: 37.7
+Diastolic Blood Pressure: 75.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 104.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), appendicitis, chronic intractable migraine without aura, chronic low back pain (finding), chronic pain, drug overdose, full-time employment (finding), has a criminal record (finding), history of appendectomy, impacted molars, lack of access to transportation (finding), not in labor force (finding), osteoarthritis of hip, osteoporosis (disorder), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), rupture of appendix, severe anxiety (panic) (finding, social isolation (finding), stress (finding), transport problems (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 104.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

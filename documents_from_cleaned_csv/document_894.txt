@@ -1,0 +1,20 @@
+Unnamed: 0: 897
+age: 73
+Body Height: 185.6
+Body Mass Index: 27.4
+Body Weight: 94.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 92.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 102.0
+conditions: acute bronchitis (disorder), anemia (disorder), appendicitis, body mass index 30+ - obesity (finding), cardiac arrest, chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), history of appendectomy, history of cardiac arrest (situation), housing unsatisfactory (finding), lack of access to transportation (finding), limited social contact (finding), not in labor force (finding), polyp of colon, prediabetes, received higher education (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

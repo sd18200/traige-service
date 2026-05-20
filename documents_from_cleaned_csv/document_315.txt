@@ -1,0 +1,20 @@
+Unnamed: 0: 316
+age: 30
+Body Height: 159.4
+Body Mass Index: 28.1
+Body Weight: 71.4
+Body temperature: 38.9
+Diastolic Blood Pressure: 75.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 102.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), full-time employment (finding), limited social contact (finding), received higher education (finding), risk activity involvement (finding), streptococcal sore throat (disorder), stress (finding)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

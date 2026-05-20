@@ -1,0 +1,20 @@
+Unnamed: 0: 696
+age: 86
+Body Height: 185.6
+Body Mass Index: 27.7
+Body Weight: 95.5
+Body temperature: 37.8
+Diastolic Blood Pressure: 80.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 141.0
+conditions: acute viral pharyngitis (disorder), alzheimer's disease (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), hyperlipidemia, limited social contact (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), pneumonia, reports of violence in the environment (finding), sepsis (disorder), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

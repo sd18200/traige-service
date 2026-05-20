@@ -1,0 +1,20 @@
+Unnamed: 0: 1125
+age: 90
+Body Height: 169.0
+Body Mass Index: 27.8
+Body Weight: 79.4
+Body temperature: 37.5
+Diastolic Blood Pressure: 100.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 157.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), atopic dermatitis, body mass index 30+ - obesity (finding), chronic intractable migraine without aura, chronic pain, drug overdose, full-time employment (finding), hypertension, impacted molars, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, risk activity involvement (finding), sprain of wrist, stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 53
+age: 68
+Body Height: 164.8
+Body Mass Index: 29.1
+Body Weight: 79.0
+Body temperature: 37.8
+Diastolic Blood Pressure: 81.0
+Heart rate: 66.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), appendicitis, body mass index 30+ - obesity (finding), drug overdose, full-time employment (finding), history of appendectomy, limited social contact (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 823
+age: 106
+Body Height: 162.5
+Body Mass Index: 28.0
+Body Weight: 73.9
+Body temperature: 37.3
+Diastolic Blood Pressure: 90.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 146.0
+conditions: acute viral pharyngitis (disorder), appendicitis, chronic congestive heart failure (disorder), chronic sinusitis (disorder), epilepsy, full-time employment (finding), has a criminal record (finding), history of appendectomy, history of single seizure (situation), hyperlipidemia, hypertension, limited social contact (finding), localized  primary osteoarthritis of the hand, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), rupture of appendix, seizure disorder, social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

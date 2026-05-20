@@ -1,0 +1,20 @@
+Unnamed: 0: 680
+age: 98
+Body Height: 175.2
+Body Mass Index: 27.5
+Body Weight: 84.4
+Body temperature: 37.5
+Diastolic Blood Pressure: 79.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 106.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), hyperlipidemia, limited social contact (finding), neoplasm of prostate, osteoarthritis of knee, part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), served in armed forces (finding), sinusitis (disorder), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

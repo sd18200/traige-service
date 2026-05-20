@@ -1,0 +1,20 @@
+Unnamed: 0: 221
+age: 20
+Body Height: 156.8
+Body Mass Index: 17.5
+Body Weight: 42.9
+Body temperature: 37.2
+Diastolic Blood Pressure: 85.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 131.0
+conditions: acute viral pharyngitis (disorder), concussion with loss of consciousness, normal pregnancy
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

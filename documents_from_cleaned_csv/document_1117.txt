@@ -1,0 +1,20 @@
+Unnamed: 0: 1121
+age: 38
+Body Height: 159.9
+Body Mass Index: 27.2
+Body Weight: 69.6
+Body temperature: 37.4
+Diastolic Blood Pressure: 84.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 120.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), antepartum eclampsia, blighted ovum, chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), lack of access to transportation (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), sepsis (disorder), social isolation (finding), streptococcal sore throat (disorder), stress (finding), transport problems (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

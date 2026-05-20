@@ -1,0 +1,20 @@
+Unnamed: 0: 390
+age: 60
+Body Height: 176.1
+Body Mass Index: 27.8
+Body Weight: 86.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 93.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 8.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 131.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic sinusitis (disorder), coronary heart disease, familial alzheimer's disease of early onset (disorder), fibromyalgia (disorder), full-time employment (finding), hypertension, limited social contact (finding), non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), part-time employment (finding), received certificate of high school equivalency (finding), stress (finding), suspected lung cancer (situation), whiplash injury to neck
+triage_level: 1
+triage_reason: Pain score 8.0; Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

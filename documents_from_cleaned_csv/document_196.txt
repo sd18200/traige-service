@@ -1,0 +1,20 @@
+Unnamed: 0: 197
+age: 28
+Body Height: 185.6
+Body Mass Index: 25.8
+Body Weight: 88.8
+Body temperature: 37.9
+Diastolic Blood Pressure: 81.0
+Heart rate: 66.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 139.0
+conditions: acute bronchitis (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), housing unsatisfactory (finding), limited social contact (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

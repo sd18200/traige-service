@@ -1,0 +1,20 @@
+Unnamed: 0: 162
+age: 4
+Body Height: 79.5
+Body Mass Index: 26.384745762711862
+Body Weight: 11.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 133.0
+conditions: otitis media
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

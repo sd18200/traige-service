@@ -1,0 +1,20 @@
+Unnamed: 0: 310
+age: 21
+Body Height: 183.1
+Body Mass Index: 21.8
+Body Weight: 72.9
+Body temperature: 37.5
+Diastolic Blood Pressure: 105.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 154.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), atopic dermatitis, hypertension, part-time employment (finding), perennial allergic rhinitis with seasonal variation, received higher education (finding), social isolation (finding), stress (finding), whiplash injury to neck
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

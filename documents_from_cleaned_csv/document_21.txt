@@ -1,0 +1,20 @@
+Unnamed: 0: 21
+age: 65
+Body Height: 152.0
+Body Mass Index: 28.3
+Body Weight: 65.3
+Body temperature: 37.7
+Diastolic Blood Pressure: 81.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 102.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), hyperlipidemia, miscarriage in first trimester, not in labor force (finding), osteoarthritis of knee, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), tubal pregnancy, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

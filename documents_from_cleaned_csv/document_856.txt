@@ -1,0 +1,20 @@
+Unnamed: 0: 859
+age: 79
+Body Height: 162.2
+Body Mass Index: 30.3
+Body Weight: 79.7
+Body temperature: 38.9
+Diastolic Blood Pressure: 82.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 133.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), first degree burn, fracture of clavicle, fracture of forearm, full-time employment (finding), has a criminal record (finding), hyperlipidemia, limited social contact (finding), osteoarthritis of knee, part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 856
+age: 7
+Body Height: 92.3
+Body Mass Index: 14.0
+Body Weight: 11.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 87.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

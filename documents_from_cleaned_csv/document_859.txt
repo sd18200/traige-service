@@ -1,0 +1,20 @@
+Unnamed: 0: 862
+age: 75
+Body Height: 185.2
+Body Mass Index: 27.8
+Body Weight: 95.4
+Body temperature: 37.6
+Diastolic Blood Pressure: 84.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 110.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), has a criminal record (finding), hyperlipidemia, hypertriglyceridemia (disorder), limited social contact (finding), macular edema and retinopathy due to type 2 diabetes mellitus (disorder), metabolic syndrome x (disorder), neuropathy due to type 2 diabetes mellitus (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), part-time employment (finding), received certificate of high school equivalency (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

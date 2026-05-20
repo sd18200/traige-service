@@ -1,0 +1,20 @@
+Unnamed: 0: 693
+age: 37
+Body Height: 161.9
+Body Mass Index: 27.7
+Body Weight: 72.5
+Body temperature: 37.6
+Diastolic Blood Pressure: 78.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 108.0
+conditions: acute viral pharyngitis (disorder), hypertension, limited social contact (finding), normal pregnancy, preeclampsia, received higher education (finding), social isolation (finding), stress (finding), unemployed (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

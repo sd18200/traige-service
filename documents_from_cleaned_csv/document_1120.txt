@@ -1,0 +1,20 @@
+Unnamed: 0: 1124
+age: 58
+Body Height: 171.3
+Body Mass Index: 30.2
+Body Weight: 88.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 116.0
+conditions: anemia (disorder), cardiac arrest, chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), full-time employment (finding), history of cardiac arrest (situation), lack of access to transportation (finding), limited social contact (finding), localized  primary osteoarthritis of the hand, part-time employment (finding), prediabetes, received higher education (finding), social isolation (finding), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

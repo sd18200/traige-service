@@ -1,0 +1,20 @@
+Unnamed: 0: 860
+age: 44
+Body Height: 174.5
+Body Mass Index: 29.2
+Body Weight: 88.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 76.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 112.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic sinusitis (disorder), full-time employment (finding), limited social contact (finding), only received primary school education (finding), part-time employment (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

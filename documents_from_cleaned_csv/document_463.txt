@@ -1,0 +1,20 @@
+Unnamed: 0: 465
+age: 59
+Body Height: 160.1
+Body Mass Index: 30.2
+Body Weight: 77.3
+Body temperature: 37.9
+Diastolic Blood Pressure: 80.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), appendicitis, epilepsy, full-time employment (finding), history of appendectomy, history of single seizure (situation), limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), seizure disorder, stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

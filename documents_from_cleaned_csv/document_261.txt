@@ -1,0 +1,20 @@
+Unnamed: 0: 262
+age: 35
+Body Height: 154.6
+Body Mass Index: 24.7
+Body Weight: 59.0
+Body temperature: 37.8
+Diastolic Blood Pressure: 72.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 112.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic low back pain (finding), concussion with loss of consciousness, fetus with unknown complication, full-time employment (finding), housing unsatisfactory (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

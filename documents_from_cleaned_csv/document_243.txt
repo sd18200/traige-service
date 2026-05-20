@@ -1,0 +1,20 @@
+Unnamed: 0: 244
+age: 43
+Body Height: 178.3
+Body Mass Index: 27.2
+Body Weight: 86.4
+Body temperature: 40.0
+Diastolic Blood Pressure: 86.0
+Heart rate: 50.4
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 30.6
+Systolic Blood Pressure: 126.0
+conditions: anemia (disorder), covid-19, fever (finding), full-time employment (finding), limited social contact (finding), loss of taste (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, severe anxiety (panic) (finding, sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: RR 30.6 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

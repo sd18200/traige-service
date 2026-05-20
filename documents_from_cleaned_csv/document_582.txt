@@ -1,0 +1,20 @@
+Unnamed: 0: 585
+age: 20
+Body Height: 167.5
+Body Mass Index: 21.0
+Body Weight: 58.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 66.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 118.0
+conditions: child attention deficit disorder, chronic sinusitis (disorder), fracture of ankle, fracture subluxation of wrist, perennial allergic rhinitis with seasonal variation, risk activity involvement (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 29
+age: 30
+Body Height: 161.0
+Body Mass Index: 22.9
+Body Weight: 59.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 128.0
+conditions: atopic dermatitis, chronic intractable migraine without aura, chronic low back pain (finding), cystitis, fetus with unknown complication, full-time employment (finding), housing unsatisfactory (finding), hypertension, miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), whiplash injury to neck
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

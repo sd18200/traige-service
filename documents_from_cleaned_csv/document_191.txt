@@ -1,0 +1,20 @@
+Unnamed: 0: 192
+age: 5
+Body Height: 97.8
+Body Mass Index: 17.4
+Body Weight: 16.6
+Body temperature: 37.2
+Diastolic Blood Pressure: 83.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), covid-19, cough (finding), fever (finding), nausea (finding), sore throat symptom (finding), streptococcal sore throat (disorder), suspected covid-19, viral sinusitis (disorder), vomiting symptom (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

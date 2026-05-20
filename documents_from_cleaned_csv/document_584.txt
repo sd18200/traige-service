@@ -1,0 +1,20 @@
+Unnamed: 0: 587
+age: 33
+Body Height: 174.7
+Body Mass Index: 28.8
+Body Weight: 88.0
+Body temperature: 37.5
+Diastolic Blood Pressure: 85.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 135.0
+conditions: acute viral pharyngitis (disorder), covid-19, cough (finding), fatigue (finding), fever (finding), fracture of forearm, full-time employment (finding), headache (finding), hypertension, hypoxemia (disorder), limited social contact (finding), loss of taste (finding), part-time employment (finding), pneumonia (disorder), received higher education (finding), respiratory distress (finding), social isolation (finding), stress (finding), suspected covid-19, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia; Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

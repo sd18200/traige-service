@@ -1,0 +1,20 @@
+Unnamed: 0: 861
+age: 91
+Body Height: 190.2
+Body Mass Index: 30.2
+Body Weight: 109.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 108.0
+conditions: acute bronchitis (disorder), carcinoma in situ of prostate (disorder), chronic kidney disease stage 1 (disorder), chronic sinusitis (disorder), coronary heart disease, diabetes, diabetic renal disease (disorder), diabetic retinopathy associated with type ii diabetes mellitus (disorder), fracture of ankle, full-time employment (finding), has a criminal record (finding), hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), neoplasm of prostate, not in labor force (finding), osteoarthritis of knee, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), served in armed forces (finding), severe anxiety (panic) (finding, smokes tobacco daily, social isolation (finding), stress (finding), stroke, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

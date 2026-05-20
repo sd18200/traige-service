@@ -1,0 +1,20 @@
+Unnamed: 0: 771
+age: 111
+Body Height: 160.1
+Body Mass Index: 27.6
+Body Weight: 70.8
+Body temperature: 37.5
+Diastolic Blood Pressure: 80.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 119.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), carcinoma in situ of prostate (disorder), coronary heart disease, fracture of ankle, full-time employment (finding), history of myocardial infarction (situation), hypertension, lack of access to transportation (finding), limited social contact (finding), myocardial infarction, neoplasm of prostate, not in labor force (finding), opioid abuse (disorder), part-time employment (finding), polyp of colon, prediabetes, received certificate of high school equivalency (finding), recurrent rectal polyp, reports of violence in the environment (finding), risk activity involvement (finding), served in armed forces (finding), social isolation (finding), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

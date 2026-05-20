@@ -1,0 +1,20 @@
+Unnamed: 0: 315
+age: 24
+Body Height: 160.2
+Body Mass Index: 22.8
+Body Weight: 59.1
+Body temperature: 37.9
+Diastolic Blood Pressure: 74.0
+Heart rate: 71.8
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 38.2
+Systolic Blood Pressure: 100.0
+conditions: covid-19, cough (finding), fever (finding), full-time employment (finding), joint pain (finding), limited social contact (finding), muscle pain (finding), normal pregnancy, otitis media, perennial allergic rhinitis, received higher education (finding), reports of violence in the environment (finding), stress (finding), suspected covid-19, transport problems (finding)
+triage_level: 2
+triage_reason: RR 38.2 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

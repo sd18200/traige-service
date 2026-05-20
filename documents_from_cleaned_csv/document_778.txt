@@ -1,0 +1,20 @@
+Unnamed: 0: 781
+age: 37
+Body Height: 162.5
+Body Mass Index: 30.6
+Body Weight: 80.8
+Body temperature: 37.9
+Diastolic Blood Pressure: 82.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 126.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), full-time employment (finding), limited social contact (finding), normal pregnancy, part-time employment (finding), preeclampsia, received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

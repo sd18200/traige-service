@@ -1,0 +1,20 @@
+Unnamed: 0: 828
+age: 77
+Body Height: 198.7
+Body Mass Index: 27.6
+Body Weight: 109.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 124.0
+conditions: anemia (disorder), chronic low back pain (finding), fracture of forearm, full-time employment (finding), hyperlipidemia, limited social contact (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), polyp of colon, prediabetes, received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), stroke, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

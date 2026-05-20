@@ -1,0 +1,20 @@
+Unnamed: 0: 922
+age: 106
+Body Height: 178.6
+Body Mass Index: 27.4
+Body Weight: 87.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 117.0
+conditions: body mass index 30+ - obesity (finding), chronic low back pain (finding), full-time employment (finding), has a criminal record (finding), hyperlipidemia, limited social contact (finding), not in labor force (finding), only received primary school education (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), sprain of wrist, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

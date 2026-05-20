@@ -1,0 +1,20 @@
+Unnamed: 0: 305
+age: 44
+Body Height: 165.0
+Body Mass Index: 30.1
+Body Weight: 81.9
+Body temperature: 37.7
+Diastolic Blood Pressure: 83.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 102.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), concussion with no loss of consciousness, escherichia coli urinary tract infection, fetus with unknown complication, full-time employment (finding), hypertension, miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), preeclampsia, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

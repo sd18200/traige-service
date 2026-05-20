@@ -1,0 +1,20 @@
+Unnamed: 0: 941
+age: 73
+Body Height: 179.2
+Body Mass Index: 28.2
+Body Weight: 90.7
+Body temperature: 37.3
+Diastolic Blood Pressure: 85.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic obstructive bronchitis (disorder), diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), hyperglycemia (disorder), hyperlipidemia, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), only received primary school education (finding), otitis media, part-time employment (finding), prediabetes, reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 223
+age: 24
+Body Height: 183.2
+Body Mass Index: 20.8
+Body Weight: 69.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 136.0
+conditions: fracture of ankle, lack of access to transportation (finding), received certificate of high school equivalency (finding), social isolation (finding), sprain of wrist, transport problems (finding), unemployed (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

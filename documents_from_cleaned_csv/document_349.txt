@@ -1,0 +1,20 @@
+Unnamed: 0: 350
+age: 29
+Body Height: 179.8
+Body Mass Index: 27.9
+Body Weight: 90.0
+Body temperature: 40.9
+Diastolic Blood Pressure: 78.0
+Heart rate: 58.6
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 26.7
+Systolic Blood Pressure: 127.0
+conditions: acute bronchitis (disorder), covid-19, chronic sinusitis (disorder), fever (finding), full-time employment (finding), laceration of foot, not in labor force (finding), part-time employment (finding), perennial allergic rhinitis with seasonal variation, received higher education (finding), sputum finding (finding), streptococcal sore throat (disorder), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: RR 26.7 bpm
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 142
+age: 28
+Body Height: 156.6
+Body Mass Index: 24.8
+Body Weight: 60.8
+Body temperature: 37.9
+Diastolic Blood Pressure: 72.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 109.0
+conditions: acute viral pharyngitis (disorder), contact dermatitis, fracture subluxation of wrist, full-time employment (finding), homeless (finding), housing unsatisfactory (finding), laceration of thigh, normal pregnancy, part-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 109.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

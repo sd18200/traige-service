@@ -1,0 +1,20 @@
+Unnamed: 0: 735
+age: 46
+Body Height: 162.0
+Body Mass Index: 30.1
+Body Weight: 79.0
+Body temperature: 37.7
+Diastolic Blood Pressure: 85.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 133.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), concussion with loss of consciousness, escherichia coli urinary tract infection, full-time employment (finding), has a criminal record (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

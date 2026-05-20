@@ -1,0 +1,20 @@
+Unnamed: 0: 760
+age: 8
+Body Height: 101.7
+Body Mass Index: 14.9
+Body Weight: 15.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 87.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 101.0
+conditions: otitis media
+triage_level: 1
+triage_reason: SBP 101.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 281
+age: 43
+Body Height: 190.2
+Body Mass Index: 30.5
+Body Weight: 110.2
+Body temperature: 37.6
+Diastolic Blood Pressure: 83.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 110.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), concussion with no loss of consciousness, full-time employment (finding), housing unsatisfactory (finding), limited social contact (finding), not in labor force (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 445
+age: 22
+Body Height: 169.4
+Body Mass Index: 18.5
+Body Weight: 53.1
+Body temperature: 38.7
+Diastolic Blood Pressure: 74.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 129.0
+conditions: acute viral pharyngitis (disorder), atopic dermatitis, covid-19, childhood asthma, chronic low back pain (finding), chronic neck pain (finding), closed fracture of hip, cough (finding), fever (finding), headache (finding), housing unsatisfactory (finding), laceration of thigh, limited social contact (finding), received higher education (finding), seasonal allergic rhinitis, stress (finding), suspected covid-19, unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

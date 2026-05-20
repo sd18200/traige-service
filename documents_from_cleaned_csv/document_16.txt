@@ -1,0 +1,20 @@
+Unnamed: 0: 16
+age: 39
+Body Height: 172.9
+Body Mass Index: 29.3
+Body Weight: 87.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 140.0
+conditions: acute bronchitis (disorder), escherichia coli urinary tract infection, hypertension, laceration of thigh, limited social contact (finding), normal pregnancy, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), unemployed (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

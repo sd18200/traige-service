@@ -1,0 +1,20 @@
+Unnamed: 0: 524
+age: 47
+Body Height: 169.1
+Body Mass Index: 30.2
+Body Weight: 86.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 119.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), epilepsy, full-time employment (finding), has a criminal record (finding), history of single seizure (situation), hypertension, limited social contact (finding), part-time employment (finding), received certificate of high school equivalency (finding), seizure disorder, social isolation (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 50
+age: 44
+Body Height: 160.1
+Body Mass Index: 28.7
+Body Weight: 73.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 132.0
+conditions: chronic low back pain (finding), chronic neck pain (finding), concussion with no loss of consciousness, full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), normal pregnancy, not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

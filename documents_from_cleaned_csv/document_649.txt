@@ -1,0 +1,20 @@
+Unnamed: 0: 652
+age: 45
+Body Height: 124.3
+Body Mass Index: 18.6
+Body Weight: 28.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 108.0
+conditions: closed fracture of hip, coronary heart disease, history of myocardial infarction (situation), myocardial infarction, otitis media, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

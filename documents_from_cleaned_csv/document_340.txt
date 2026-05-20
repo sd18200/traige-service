@@ -1,0 +1,20 @@
+Unnamed: 0: 341
+age: 55
+Body Height: 180.0
+Body Mass Index: 28.6
+Body Weight: 92.6
+Body temperature: 37.0
+Diastolic Blood Pressure: 89.0
+Heart rate: 63.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 132.0
+conditions: acute viral pharyngitis (disorder), bullet wound, full-time employment (finding), housing unsatisfactory (finding), injury of tendon of the rotator cuff of shoulder, limited social contact (finding), not in labor force (finding), received certificate of high school equivalency (finding), refugee (person), risk activity involvement (finding), sprain of ankle, stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

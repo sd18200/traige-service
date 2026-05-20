@@ -1,0 +1,20 @@
+Unnamed: 0: 1134
+age: 87
+Body Height: 173.1
+Body Mass Index: 26.1
+Body Weight: 78.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 129.0
+conditions: chronic congestive heart failure (disorder), full-time employment (finding), has a criminal record (finding), hyperlipidemia, hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), polyp of colon, received higher education (finding), recurrent rectal polyp, social isolation (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

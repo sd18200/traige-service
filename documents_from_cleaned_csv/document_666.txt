@@ -1,0 +1,20 @@
+Unnamed: 0: 669
+age: 14
+Body Height: 149.5
+Body Mass Index: 17.5
+Body Weight: 39.0
+Body temperature: 37.7
+Diastolic Blood Pressure: 78.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 137.0
+conditions: acute viral pharyngitis (disorder), child attention deficit disorder, chronic sinusitis (disorder), perennial allergic rhinitis with seasonal variation, sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

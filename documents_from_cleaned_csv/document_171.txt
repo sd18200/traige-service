@@ -1,0 +1,20 @@
+Unnamed: 0: 171
+age: 72
+Body Height: 160.7
+Body Mass Index: 27.3
+Body Weight: 70.6
+Body temperature: 38.1
+Diastolic Blood Pressure: 75.0
+Heart rate: 104.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 19.2
+Systolic Blood Pressure: 124.0
+conditions: acute pulmonary embolism (disorder), acute respiratory distress syndrome (disorder), acute respiratory failure (disorder), anemia (disorder), covid-19, cough (finding), diarrhea symptom (finding), fatigue (finding), full-time employment (finding), has a criminal record (finding), hypoxemia (disorder), injury of kidney (disorder), limited social contact (finding), malignant tumor of colon, miscarriage in first trimester, not in labor force (finding), part-time employment (finding), pneumonia (disorder), polyp of colon, prediabetes, received certificate of high school equivalency (finding), recurrent rectal polyp, respiratory distress (finding), sepsis caused by virus (disorder), sputum finding (finding), stress (finding), suspected covid-19, unhealthy alcohol drinking behavior (finding), whiplash injury to neck
+triage_level: 2
+triage_reason: Condition: sepsis; Condition: pulmonary embolism
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

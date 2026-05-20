@@ -1,0 +1,20 @@
+Unnamed: 0: 961
+age: 58
+Body Height: 150.0
+Body Mass Index: 27.6
+Body Weight: 62.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 97.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 183.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), concussion with no loss of consciousness, facial laceration, has a criminal record (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), prediabetes, received certificate of high school equivalency (finding), sepsis (disorder), stress (finding), unemployed (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

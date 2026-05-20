@@ -1,0 +1,20 @@
+Unnamed: 0: 851
+age: 37
+Body Height: 163.7
+Body Mass Index: 26.2
+Body Weight: 70.1
+Body temperature: 40.1
+Diastolic Blood Pressure: 88.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 138.0
+conditions: acute bronchitis (disorder), blighted ovum, covid-19, cough (finding), fever (finding), full-time employment (finding), limited social contact (finding), loss of taste (finding), miscarriage in first trimester, misuses drugs (finding), normal pregnancy, part-time employment (finding), received higher education (finding), risk activity involvement (finding), sore throat symptom (finding), stress (finding), suspected covid-19, tubal pregnancy
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

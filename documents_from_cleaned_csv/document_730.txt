@@ -1,0 +1,20 @@
+Unnamed: 0: 733
+age: 5
+Body Height: 86.7
+Body Mass Index: 26.384745762711862
+Body Weight: 13.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 74.0
+Heart rate: 74.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 115.0
+conditions: second degree burn, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

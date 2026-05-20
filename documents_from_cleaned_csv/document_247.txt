@@ -1,0 +1,20 @@
+Unnamed: 0: 248
+age: 60
+Body Height: 183.9
+Body Mass Index: 28.3
+Body Weight: 95.7
+Body temperature: 38.9
+Diastolic Blood Pressure: 86.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 115.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic neck pain (finding), full-time employment (finding), hyperlipidemia, limited social contact (finding), not in labor force (finding), otitis media, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

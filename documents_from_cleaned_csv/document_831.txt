@@ -1,0 +1,20 @@
+Unnamed: 0: 834
+age: 79
+Body Height: 169.0
+Body Mass Index: 27.2
+Body Weight: 77.7
+Body temperature: 37.8
+Diastolic Blood Pressure: 75.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), chronic congestive heart failure (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), full-time employment (finding), has a criminal record (finding), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), served in armed forces (finding), severe anxiety (panic) (finding, shock (disorder), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

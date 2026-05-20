@@ -1,0 +1,20 @@
+Unnamed: 0: 166
+age: 25
+Body Height: 188.5
+Body Mass Index: 23.0
+Body Weight: 81.8
+Body temperature: 38.8
+Diastolic Blood Pressure: 75.0
+Heart rate: 85.2
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 36.7
+Systolic Blood Pressure: 113.0
+conditions: covid-19, cough (finding), fever (finding), full-time employment (finding), headache (finding), hypertension, laceration of foot, lack of access to transportation (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: RR 36.7 bpm (resp distress)
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

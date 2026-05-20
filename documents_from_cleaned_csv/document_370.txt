@@ -1,0 +1,20 @@
+Unnamed: 0: 372
+age: 28
+Body Height: 164.5
+Body Mass Index: 28.1
+Body Weight: 76.0
+Body temperature: 37.0
+Diastolic Blood Pressure: 79.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 119.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), contact dermatitis, full-time employment (finding), has a criminal record (finding), laceration of thigh, lack of access to transportation (finding), limited social contact (finding), normal pregnancy, part-time employment (finding), received higher education (finding), risk activity involvement (finding), stress (finding), transport problems (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

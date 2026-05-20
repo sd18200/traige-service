@@ -1,0 +1,20 @@
+Unnamed: 0: 18
+age: 16
+Body Height: 155.6
+Body Mass Index: 16.7
+Body Weight: 40.3
+Body temperature: 37.9
+Diastolic Blood Pressure: 85.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 117.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), child attention deficit disorder, fracture of clavicle, fracture of forearm, laceration of hand, laceration of thigh, risk activity involvement (finding), streptococcal sore throat (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

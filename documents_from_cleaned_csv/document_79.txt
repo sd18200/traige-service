@@ -1,0 +1,20 @@
+Unnamed: 0: 79
+age: 54
+Body Height: 172.2
+Body Mass Index: 27.7
+Body Weight: 82.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 83.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 120.0
+conditions: acute bacterial sinusitis (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), full-time employment (finding), not in labor force (finding), otitis media, part-time employment (finding), received certificate of high school equivalency (finding), sprain of ankle, stress (finding), stroke
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

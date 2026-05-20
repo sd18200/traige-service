@@ -1,0 +1,20 @@
+Unnamed: 0: 753
+age: 86
+Body Height: 178.1
+Body Mass Index: 32.8
+Body Weight: 104.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 131.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), coronary heart disease, full-time employment (finding), history of myocardial infarction (situation), myocardial infarction, osteoarthritis of knee, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

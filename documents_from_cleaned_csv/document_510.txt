@@ -1,0 +1,20 @@
+Unnamed: 0: 513
+age: 110
+Body Height: 173.9
+Body Mass Index: 27.8
+Body Weight: 84.0
+Body temperature: 37.2
+Diastolic Blood Pressure: 79.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hyperlipidemia, hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), neoplasm of prostate, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), served in armed forces (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 1
+ENCOUNTERCLASS_wellness: 0

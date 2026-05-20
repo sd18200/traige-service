@@ -1,0 +1,20 @@
+Unnamed: 0: 1143
+age: 30
+Body Height: 179.8
+Body Mass Index: 22.2
+Body Weight: 71.6
+Body temperature: 41.8
+Diastolic Blood Pressure: 79.0
+Heart rate: 160.7
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 20.6
+Systolic Blood Pressure: 115.0
+conditions: acute viral pharyngitis (disorder), covid-19, cardiac arrest, chill (finding), fever (finding), full-time employment (finding), history of cardiac arrest (situation), housing unsatisfactory (finding), limited social contact (finding), loss of taste (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: HR 160.7 bpm (tachycardia); Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

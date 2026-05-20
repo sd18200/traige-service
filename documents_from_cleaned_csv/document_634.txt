@@ -1,0 +1,20 @@
+Unnamed: 0: 637
+age: 13
+Body Height: 135.3
+Body Mass Index: 18.4
+Body Weight: 33.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 130.0
+conditions: atopic dermatitis, childhood asthma, otitis media, perennial allergic rhinitis
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

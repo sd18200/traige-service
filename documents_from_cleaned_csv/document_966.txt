@@ -1,0 +1,20 @@
+Unnamed: 0: 969
+age: 31
+Body Height: 164.3
+Body Mass Index: 23.3
+Body Weight: 63.0
+Body temperature: 41.5
+Diastolic Blood Pressure: 71.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 110.0
+conditions: covid-19, chronic low back pain (finding), chronic neck pain (finding), cough (finding), fever (finding), full-time employment (finding), loss of taste (finding), normal pregnancy, part-time employment (finding), received higher education (finding), refugee (person), social isolation (finding), sprain of wrist, stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

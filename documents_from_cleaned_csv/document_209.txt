@@ -1,0 +1,20 @@
+Unnamed: 0: 210
+age: 41
+Body Height: 172.4
+Body Mass Index: 30.3
+Body Weight: 90.1
+Body temperature: 39.3
+Diastolic Blood Pressure: 79.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 109.0
+conditions: body mass index 30+ - obesity (finding), full-time employment (finding), housing unsatisfactory (finding), lack of access to transportation (finding), normal pregnancy, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, sprain of ankle, sprain of wrist, streptococcal sore throat (disorder), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 109.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

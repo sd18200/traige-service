@@ -1,0 +1,20 @@
+Unnamed: 0: 452
+age: 30
+Body Height: 160.1
+Body Mass Index: 28.7
+Body Weight: 73.7
+Body temperature: 39.6
+Diastolic Blood Pressure: 71.0
+Heart rate: 55.9
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.1
+Systolic Blood Pressure: 108.0
+conditions: acute bronchitis (disorder), anemia (disorder), covid-19, chronic low back pain (finding), cough (finding), fever (finding), full-time employment (finding), limited social contact (finding), loss of taste (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

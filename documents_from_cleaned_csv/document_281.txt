@@ -1,0 +1,20 @@
+Unnamed: 0: 282
+age: 38
+Body Height: 156.0
+Body Mass Index: 42.5
+Body Weight: 103.4
+Body temperature: 40.1
+Diastolic Blood Pressure: 107.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 148.0
+conditions: acute bacterial sinusitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), antepartum eclampsia, body mass index 30+ - obesity (finding), body mass index 40+ - severely obese (finding), covid-19, chronic low back pain (finding), chronic neck pain (finding), cough (finding), dyspnea (finding), full-time employment (finding), hypertension, limited social contact (finding), loss of taste (finding), normal pregnancy, not in labor force (finding), part-time employment (finding), preeclampsia, received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder), wheezing (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 1017
+age: 70
+Body Height: 167.5
+Body Mass Index: 27.3
+Body Weight: 76.7
+Body temperature: 38.0
+Diastolic Blood Pressure: 78.0
+Heart rate: 84.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 120.0
+conditions: acute viral pharyngitis (disorder), appendicitis, chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), history of appendectomy, limited social contact (finding), miscarriage in first trimester, part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), streptococcal sore throat (disorder), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

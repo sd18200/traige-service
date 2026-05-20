@@ -1,0 +1,20 @@
+Unnamed: 0: 1147
+age: 60
+Body Height: 170.3
+Body Mass Index: 19.9
+Body Weight: 57.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 85.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 108.0
+conditions: concussion with no loss of consciousness, full-time employment (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), not in labor force (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), stroke, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

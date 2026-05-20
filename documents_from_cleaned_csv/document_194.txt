@@ -1,0 +1,20 @@
+Unnamed: 0: 195
+age: 87
+Body Height: 158.5
+Body Mass Index: 27.7
+Body Weight: 69.7
+Body temperature: 39.3
+Diastolic Blood Pressure: 86.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 128.0
+conditions: acute viral pharyngitis (disorder), alzheimer's disease (disorder), chronic intractable migraine without aura, chronic pain, chronic sinusitis (disorder), coronary heart disease, drug overdose, full-time employment (finding), has a criminal record (finding), history of myocardial infarction (situation), homeless (finding), impacted molars, lack of access to transportation (finding), limited social contact (finding), myocardial infarction, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), streptococcal sore throat (disorder), stress (finding), transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

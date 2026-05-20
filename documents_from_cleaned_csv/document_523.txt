@@ -1,0 +1,20 @@
+Unnamed: 0: 526
+age: 113
+Body Height: 171.3
+Body Mass Index: 43.7
+Body Weight: 128.1
+Body temperature: 37.3
+Diastolic Blood Pressure: 82.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 116.0
+conditions: acute viral pharyngitis (disorder), alzheimer's disease (disorder), body mass index 30+ - obesity (finding), body mass index 40+ - severely obese (finding), chronic intractable migraine without aura, chronic pain, drug overdose, fracture of clavicle, full-time employment (finding), has a criminal record (finding), hypertension, impacted molars, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), recurrent urinary tract infection, refugee (person), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

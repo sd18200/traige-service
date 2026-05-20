@@ -1,0 +1,20 @@
+Unnamed: 0: 566
+age: 107
+Body Height: 162.0
+Body Mass Index: 27.7
+Body Weight: 72.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 136.0
+conditions: alzheimer's disease (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), closed fracture of hip, concussion with no loss of consciousness, full-time employment (finding), has a criminal record (finding), laceration of thigh, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 407
+age: 65
+Body Height: 174.5
+Body Mass Index: 30.5
+Body Weight: 92.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 124.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), diabetes, full-time employment (finding), has a criminal record (finding), hyperglycemia (disorder), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), neuropathy due to type 2 diabetes mellitus (disorder), part-time employment (finding), prediabetes, received higher education (finding), reports of violence in the environment (finding), sepsis (disorder), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 591
+age: 24
+Body Height: 157.8
+Body Mass Index: 24.1
+Body Weight: 60.0
+Body temperature: 37.7
+Diastolic Blood Pressure: 80.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 116.0
+conditions: acute bacterial sinusitis (disorder), acute viral pharyngitis (disorder), chronic sinusitis (disorder), concussion with loss of consciousness, full-time employment (finding), limited social contact (finding), not in labor force (finding), received higher education (finding), sinusitis (disorder), social isolation (finding), stress (finding), transport problems (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 149
+age: 49
+Body Height: 163.5
+Body Mass Index: 27.9
+Body Weight: 74.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 135.0
+conditions: body mass index 30+ - obesity (finding), cardiac arrest, escherichia coli urinary tract infection, full-time employment (finding), history of cardiac arrest (situation), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

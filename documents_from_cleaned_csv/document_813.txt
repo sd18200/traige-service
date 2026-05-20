@@ -1,0 +1,20 @@
+Unnamed: 0: 816
+age: 51
+Body Height: 162.7
+Body Mass Index: 30.1
+Body Weight: 79.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 106.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 166.0
+conditions: body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), cystitis, full-time employment (finding), hypertension, normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

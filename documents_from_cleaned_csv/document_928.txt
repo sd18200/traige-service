@@ -1,0 +1,20 @@
+Unnamed: 0: 931
+age: 82
+Body Height: 162.7
+Body Mass Index: 30.4
+Body Weight: 80.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 100.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), limited social contact (finding), miscarriage in first trimester, osteoporosis (disorder), prediabetes, received higher education (finding), risk activity involvement (finding), sprain of ankle, stress (finding), unemployed (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 100.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

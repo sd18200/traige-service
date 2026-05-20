@@ -1,0 +1,20 @@
+Unnamed: 0: 319
+age: 62
+Body Height: 162.8
+Body Mass Index: 27.7
+Body Weight: 73.4
+Body temperature: 37.8
+Diastolic Blood Pressure: 75.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 109.0
+conditions: acute viral pharyngitis (disorder), cystitis, fetus with unknown complication, full-time employment (finding), laceration of hand, limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

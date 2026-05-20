@@ -1,0 +1,20 @@
+Unnamed: 0: 960
+age: 13
+Body Height: 130.1
+Body Mass Index: 22.3
+Body Weight: 37.7
+Body temperature: 37.0
+Diastolic Blood Pressure: 78.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 128.0
+conditions: covid-19, chronic sinusitis (disorder), cough (finding), fever (finding), hypoxemia (disorder), joint pain (finding), loss of taste (finding), muscle pain (finding), otitis media, pneumonia (disorder), respiratory distress (finding), sinusitis (disorder), sputum finding (finding), suspected covid-19
+triage_level: 1
+triage_reason: Condition: pneumonia
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

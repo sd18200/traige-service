@@ -1,0 +1,20 @@
+Unnamed: 0: 999
+age: 62
+Body Height: 168.3
+Body Mass Index: 28.2
+Body Weight: 79.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 131.0
+conditions: anemia (disorder), chronic intractable migraine without aura, chronic neck pain (finding), chronic pain, diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), drug overdose, full-time employment (finding), hyperglycemia (disorder), hypertriglyceridemia (disorder), impacted molars, macular edema and retinopathy due to type 2 diabetes mellitus (disorder), metabolic syndrome x (disorder), miscarriage in first trimester, nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

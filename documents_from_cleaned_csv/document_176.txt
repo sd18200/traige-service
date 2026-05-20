@@ -1,0 +1,20 @@
+Unnamed: 0: 176
+age: 49
+Body Height: 187.3
+Body Mass Index: 30.2
+Body Weight: 105.8
+Body temperature: 39.2
+Diastolic Blood Pressure: 75.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 115.0
+conditions: acute viral pharyngitis (disorder), appendicitis, body mass index 30+ - obesity (finding), covid-19, chronic sinusitis (disorder), concussion with no loss of consciousness, cough (finding), dyspnea (finding), fever (finding), full-time employment (finding), headache (finding), history of appendectomy, hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), rupture of appendix, sinusitis (disorder), stress (finding), suspected covid-19, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), wheezing (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

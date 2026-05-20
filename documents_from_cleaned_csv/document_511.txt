@@ -1,0 +1,20 @@
+Unnamed: 0: 514
+age: 23
+Body Height: 166.8
+Body Mass Index: 23.6
+Body Weight: 65.7
+Body temperature: 37.8
+Diastolic Blood Pressure: 74.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 121.0
+conditions: acute bacterial sinusitis (disorder), chronic sinusitis (disorder), fracture of forearm, full-time employment (finding), normal pregnancy, part-time employment (finding), received higher education (finding), risk activity involvement (finding), severe anxiety (panic) (finding, streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

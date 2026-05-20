@@ -1,0 +1,20 @@
+Unnamed: 0: 1142
+age: 43
+Body Height: 168.4
+Body Mass Index: 27.6
+Body Weight: 78.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 131.0
+conditions: acute bronchitis (disorder), cardiac arrest, chronic intractable migraine without aura, chronic low back pain (finding), chronic pain, drug overdose, full-time employment (finding), history of cardiac arrest (situation), impacted molars, not in labor force (finding), only received primary school education (finding), otitis media, part-time employment (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

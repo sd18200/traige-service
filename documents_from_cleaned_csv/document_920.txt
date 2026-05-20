@@ -1,0 +1,20 @@
+Unnamed: 0: 923
+age: 8
+Body Height: 105.5
+Body Mass Index: 14.1
+Body Weight: 15.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 67.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 119.0
+conditions: acute bronchitis (disorder), otitis media
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

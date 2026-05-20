@@ -1,0 +1,20 @@
+Unnamed: 0: 1160
+age: 57
+Body Height: 184.2
+Body Mass Index: 25.0
+Body Weight: 84.8
+Body temperature: 37.6
+Diastolic Blood Pressure: 80.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 137.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), appendicitis, body mass index 30+ - obesity (finding), full-time employment (finding), history of appendectomy, laceration of thigh, limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), rupture of appendix, social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

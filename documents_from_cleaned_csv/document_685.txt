@@ -1,0 +1,20 @@
+Unnamed: 0: 688
+age: 93
+Body Height: 175.2
+Body Mass Index: 28.1
+Body Weight: 86.2
+Body temperature: 37.5
+Diastolic Blood Pressure: 81.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 115.0
+conditions: acute viral pharyngitis (disorder), alzheimer's disease (disorder), anemia (disorder), carcinoma in situ of prostate (disorder), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), neoplasm of prostate, not in labor force (finding), only received primary school education (finding), osteoarthritis of knee, part-time employment (finding), pneumonia, prediabetes, risk activity involvement (finding), sepsis (disorder), served in armed forces (finding), social isolation (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 657
+age: 98
+Body Height: 161.2
+Body Mass Index: 30.3
+Body Weight: 78.6
+Body temperature: 37.6
+Diastolic Blood Pressure: 80.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 130.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), full-time employment (finding), limited social contact (finding), miscarriage in first trimester, not in labor force (finding), only received primary school education (finding), part-time employment (finding), polyp of colon, prediabetes, pulmonary emphysema (disorder), recurrent rectal polyp, sepsis (disorder), sinusitis (disorder), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

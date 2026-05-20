@@ -1,0 +1,20 @@
+Unnamed: 0: 52
+age: 25
+Body Height: 187.3
+Body Mass Index: 21.3
+Body Weight: 74.5
+Body temperature: 37.5
+Diastolic Blood Pressure: 73.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 127.0
+conditions: acute viral pharyngitis (disorder), chronic intractable migraine without aura, chronic pain, drug overdose, fracture of ankle, full-time employment (finding), hypertension, impacted molars, part-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 238
+age: 92
+Body Height: 168.5
+Body Mass Index: 28.4
+Body Weight: 80.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 86.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), full-time employment (finding), has a criminal record (finding), limited social contact (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

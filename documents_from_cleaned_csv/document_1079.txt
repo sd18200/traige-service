@@ -1,0 +1,20 @@
+Unnamed: 0: 1082
+age: 65
+Body Height: 164.8
+Body Mass Index: 27.1
+Body Weight: 73.5
+Body temperature: 37.6
+Diastolic Blood Pressure: 84.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 130.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), chronic kidney disease stage 1 (disorder), chronic sinusitis (disorder), diabetes, diabetic renal disease (disorder), hypertriglyceridemia (disorder), metabolic syndrome x (disorder), miscarriage in first trimester, osteoporosis (disorder), prediabetes, received higher education (finding), social isolation (finding), sprain of ankle, stress (finding), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

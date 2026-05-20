@@ -1,0 +1,20 @@
+Unnamed: 0: 266
+age: 89
+Body Height: 185.6
+Body Mass Index: 27.8
+Body Weight: 95.6
+Body temperature: 37.5
+Diastolic Blood Pressure: 101.0
+Heart rate: 79.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 148.0
+conditions: anemia (disorder), atrial fibrillation, chronic sinusitis (disorder), epilepsy, fracture of clavicle, full-time employment (finding), history of single seizure (situation), hyperlipidemia, hypertension, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), seizure disorder, social isolation (finding), sprain of ankle, streptococcal sore throat (disorder), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

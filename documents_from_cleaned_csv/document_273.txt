@@ -1,0 +1,20 @@
+Unnamed: 0: 274
+age: 13
+Body Height: 136.8
+Body Mass Index: 21.4
+Body Weight: 40.1
+Body temperature: 37.6
+Diastolic Blood Pressure: 75.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 109.0
+conditions: acute viral pharyngitis (disorder), otitis media
+triage_level: 1
+triage_reason: SBP 109.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

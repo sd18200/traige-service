@@ -1,0 +1,20 @@
+Unnamed: 0: 530
+age: 47
+Body Height: 177.0
+Body Mass Index: 30.6
+Body Weight: 95.7
+Body temperature: 37.5
+Diastolic Blood Pressure: 88.0
+Heart rate: 72.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), chronic intractable migraine without aura, concussion with loss of consciousness, facial laceration, full-time employment (finding), has a criminal record (finding), limited social contact (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

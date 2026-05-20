@@ -1,0 +1,20 @@
+Unnamed: 0: 1047
+age: 112
+Body Height: 156.0
+Body Mass Index: 24.3
+Body Weight: 59.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 111.0
+conditions: chronic congestive heart failure (disorder), fracture subluxation of wrist, full-time employment (finding), hyperlipidemia, limited social contact (finding), malignant neoplasm of breast (disorder), miscarriage in first trimester, not in labor force (finding), polyp of colon, received higher education (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

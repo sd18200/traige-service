@@ -1,0 +1,20 @@
+Unnamed: 0: 750
+age: 57
+Body Height: 153.8
+Body Mass Index: 28.0
+Body Weight: 66.3
+Body temperature: 37.9
+Diastolic Blood Pressure: 75.0
+Heart rate: 81.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 122.0
+conditions: acute bronchitis (disorder), coronary heart disease, full-time employment (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 72
+age: 68
+Body Height: 154.6
+Body Mass Index: 27.9
+Body Weight: 66.6
+Body temperature: 39.2
+Diastolic Blood Pressure: 76.0
+Heart rate: 96.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 104.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), appendicitis, chronic low back pain (finding), chronic neck pain (finding), has a criminal record (finding), history of appendectomy, limited social contact (finding), miscarriage in first trimester, misuses drugs (finding), prediabetes, received certificate of high school equivalency (finding), recurrent urinary tract infection, rupture of appendix, social isolation (finding), streptococcal sore throat (disorder), stress (finding), tubal pregnancy, unemployed (finding), victim of intimate partner abuse (finding), whiplash injury to neck
+triage_level: 1
+triage_reason: SBP 104.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

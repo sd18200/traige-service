@@ -1,0 +1,20 @@
+Unnamed: 0: 367
+age: 40
+Body Height: 162.0
+Body Mass Index: 29.3
+Body Weight: 76.9
+Body temperature: 37.5
+Diastolic Blood Pressure: 76.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 106.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), full-time employment (finding), limited social contact (finding), normal pregnancy, part-time employment (finding), received certificate of high school equivalency (finding), sprain of ankle, stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

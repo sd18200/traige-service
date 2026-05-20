@@ -1,0 +1,20 @@
+Unnamed: 0: 413
+age: 83
+Body Height: 181.4
+Body Mass Index: 27.4
+Body Weight: 90.0
+Body temperature: 37.2
+Diastolic Blood Pressure: 77.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 129.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), alzheimer's disease (disorder), anemia (disorder), atrial fibrillation, chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), has a criminal record (finding), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 1
+ENCOUNTERCLASS_wellness: 0

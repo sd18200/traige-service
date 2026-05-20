@@ -1,0 +1,20 @@
+Unnamed: 0: 346
+age: 98
+Body Height: 154.5
+Body Mass Index: 27.7
+Body Weight: 66.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 82.0
+Heart rate: 82.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 134.0
+conditions: alzheimer's disease (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), fracture of forearm, full-time employment (finding), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 767
+age: 69
+Body Height: 174.7
+Body Mass Index: 27.3
+Body Weight: 83.4
+Body temperature: 40.2
+Diastolic Blood Pressure: 80.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 110.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), covid-19, cough (finding), fatigue (finding), fever (finding), full-time employment (finding), limited social contact (finding), loss of taste (finding), not in labor force (finding), part-time employment (finding), polyp of colon, prediabetes, received higher education (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 110.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 639
+age: 107
+Body Height: 174.6
+Body Mass Index: 21.7
+Body Weight: 66.0
+Body temperature: 37.1
+Diastolic Blood Pressure: 74.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 94.7
+conditions: acute viral pharyngitis (disorder), anemia (disorder), full-time employment (finding), limited social contact (finding), normal pregnancy, prediabetes, preeclampsia, received certificate of high school equivalency (finding), sepsis (disorder), severe anxiety (panic) (finding, viral sinusitis (disorder)
+triage_level: 2
+triage_reason: SBP 94.7 mmHg (shock); Condition: sepsis
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

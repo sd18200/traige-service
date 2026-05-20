@@ -1,0 +1,20 @@
+Unnamed: 0: 605
+age: 62
+Body Height: 190.2
+Body Mass Index: 30.5
+Body Weight: 110.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 89.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 132.0
+conditions: anemia (disorder), full-time employment (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

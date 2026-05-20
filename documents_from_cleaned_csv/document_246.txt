@@ -1,0 +1,20 @@
+Unnamed: 0: 247
+age: 57
+Body Height: 190.2
+Body Mass Index: 28.3
+Body Weight: 102.5
+Body temperature: 37.8
+Diastolic Blood Pressure: 85.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 134.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), hypertension, laceration of hand, limited social contact (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, reports of violence in the environment (finding), served in armed forces (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 302
+age: 23
+Body Height: 154.6
+Body Mass Index: 21.5
+Body Weight: 51.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 87.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 102.0
+conditions: fracture of forearm, history of single seizure (situation), laceration of thigh, seizure disorder, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 102.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

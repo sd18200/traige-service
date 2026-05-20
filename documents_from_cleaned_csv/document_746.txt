@@ -1,0 +1,20 @@
+Unnamed: 0: 749
+age: 71
+Body Height: 159.0
+Body Mass Index: 27.5
+Body Weight: 69.5
+Body temperature: 41.7
+Diastolic Blood Pressure: 84.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 127.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), covid-19, chronic pain, chronic sinusitis (disorder), cough (finding), fatigue (finding), fever (finding), full-time employment (finding), lack of access to transportation (finding), miscarriage in first trimester, misuses drugs (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), severe anxiety (panic) (finding, social isolation (finding), sputum finding (finding), streptococcal sore throat (disorder), stress (finding), suspected covid-19, transport problems (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

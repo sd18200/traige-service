@@ -1,0 +1,20 @@
+Unnamed: 0: 957
+age: 44
+Body Height: 184.2
+Body Mass Index: 26.6
+Body Weight: 90.2
+Body temperature: 37.5
+Diastolic Blood Pressure: 74.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 105.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), chronic sinusitis (disorder), fracture subluxation of wrist, full-time employment (finding), housing unsatisfactory (finding), misuses drugs (finding), prediabetes, pulmonary emphysema (disorder), received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: SBP 105.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

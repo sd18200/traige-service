@@ -1,0 +1,20 @@
+Unnamed: 0: 1092
+age: 76
+Body Height: 177.7
+Body Mass Index: 29.5
+Body Weight: 93.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 112.0
+conditions: acute bronchitis (disorder), anemia (disorder), familial alzheimer's disease of early onset (disorder), full-time employment (finding), injury of tendon of the rotator cuff of shoulder, limited social contact (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), pneumonia, prediabetes, reports of violence in the environment (finding), risk activity involvement (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: pneumonia
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

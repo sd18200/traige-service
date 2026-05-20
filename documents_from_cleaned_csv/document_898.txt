@@ -1,0 +1,20 @@
+Unnamed: 0: 901
+age: 64
+Body Height: 177.4
+Body Mass Index: 27.8
+Body Weight: 87.6
+Body temperature: 37.4
+Diastolic Blood Pressure: 80.0
+Heart rate: 83.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 118.0
+conditions: acute viral pharyngitis (disorder), coronary heart disease, full-time employment (finding), has a criminal record (finding), history of myocardial infarction (situation), myocardial infarction, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

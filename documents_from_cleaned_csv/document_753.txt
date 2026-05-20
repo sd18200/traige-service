@@ -1,0 +1,20 @@
+Unnamed: 0: 756
+age: 65
+Body Height: 186.8
+Body Mass Index: 24.4
+Body Weight: 85.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 80.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 137.0
+conditions: cardiac arrest, full-time employment (finding), has a criminal record (finding), history of cardiac arrest (situation), hypertension, laceration of foot, limited social contact (finding), misuses drugs (finding), not in labor force (finding), otitis media, part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

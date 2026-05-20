@@ -1,0 +1,20 @@
+Unnamed: 0: 628
+age: 51
+Body Height: 175.2
+Body Mass Index: 30.5
+Body Weight: 93.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 106.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 175.0
+conditions: acute bacterial sinusitis (disorder), body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), osteoarthritis of hip, received higher education (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

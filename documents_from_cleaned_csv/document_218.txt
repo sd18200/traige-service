@@ -1,0 +1,20 @@
+Unnamed: 0: 219
+age: 16
+Body Height: 140.4
+Body Mass Index: 22.7
+Body Weight: 44.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 91.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder), atopic dermatitis, childhood asthma, fracture of ankle, otitis media, perennial allergic rhinitis with seasonal variation, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg; Condition: asthma
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

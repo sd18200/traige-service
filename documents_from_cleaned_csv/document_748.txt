@@ -1,0 +1,20 @@
+Unnamed: 0: 751
+age: 58
+Body Height: 175.4
+Body Mass Index: 32.4
+Body Weight: 99.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 76.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 119.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), laceration of foot, not in labor force (finding), otitis media, part-time employment (finding), polyp of colon, prediabetes, received higher education (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

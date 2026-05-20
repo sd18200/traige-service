@@ -1,0 +1,20 @@
+Unnamed: 0: 1139
+age: 80
+Body Height: 183.1
+Body Mass Index: 27.2
+Body Weight: 91.1
+Body temperature: 36.7
+Diastolic Blood Pressure: 92.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 157.0
+conditions: acute bronchitis (disorder), acute deep venous thrombosis (disorder), atrial fibrillation, covid-19, chill (finding), dyspnea (finding), fatigue (finding), fever (finding), fracture of forearm, full-time employment (finding), has a criminal record (finding), hyperlipidemia, hypertension, hypoxemia (disorder), joint pain (finding), limited social contact (finding), loss of taste (finding), muscle pain (finding), not in labor force (finding), only received primary school education (finding), part-time employment (finding), pneumonia (disorder), polyp of colon, refugee (person), reports of violence in the environment (finding), respiratory distress (finding), social isolation (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder), wheezing (finding)
+triage_level: 1
+triage_reason: Condition: pneumonia; Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 482
+age: 76
+Body Height: 158.1
+Body Mass Index: 29.4
+Body Weight: 73.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 70.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 112.0
+conditions: acute bronchitis (disorder), atrial fibrillation, chronic neck pain (finding), chronic sinusitis (disorder), fracture of forearm, full-time employment (finding), hypertension, limited social contact (finding), miscarriage in first trimester, misuses drugs (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), polyp of colon, prediabetes, received higher education (finding), recurrent rectal polyp, reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), stroke
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

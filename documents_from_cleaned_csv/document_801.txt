@@ -1,0 +1,20 @@
+Unnamed: 0: 804
+age: 21
+Body Height: 170.4
+Body Mass Index: 20.7
+Body Weight: 60.0
+Body temperature: 37.8
+Diastolic Blood Pressure: 80.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 123.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), child attention deficit disorder, full-time employment (finding), hypertension, received certificate of high school equivalency (finding), risk activity involvement (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 507
+age: 60
+Body Height: 156.6
+Body Mass Index: 28.0
+Body Weight: 68.7
+Body temperature: 37.2
+Diastolic Blood Pressure: 78.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 8.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 128.0
+conditions: acute viral pharyngitis (disorder), diabetes, fetus with unknown complication, fracture of ankle, full-time employment (finding), hypertension, hypertriglyceridemia (disorder), lack of access to transportation (finding), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, neuropathy due to type 2 diabetes mellitus (disorder), normal pregnancy, overlapping malignant neoplasm of colon, part-time employment (finding), polyp of colon, received higher education (finding), recurrent rectal polyp, refugee (person), social isolation (finding), stress (finding), transport problems (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Pain score 8.0; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

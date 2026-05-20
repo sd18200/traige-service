@@ -1,0 +1,20 @@
+Unnamed: 0: 574
+age: 46
+Body Height: 159.6
+Body Mass Index: 28.2
+Body Weight: 71.9
+Body temperature: 38.1
+Diastolic Blood Pressure: 76.0
+Heart rate: 121.2
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 39.2
+Systolic Blood Pressure: 105.0
+conditions: acute viral pharyngitis (disorder), covid-19, fever (finding), full-time employment (finding), headache (finding), history of single seizure (situation), nausea (finding), normal pregnancy, not in labor force (finding), received certificate of high school equivalency (finding), seizure disorder, social isolation (finding), streptococcal sore throat (disorder), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder), vomiting symptom (finding)
+triage_level: 2
+triage_reason: RR 39.2 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

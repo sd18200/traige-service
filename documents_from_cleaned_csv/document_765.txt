@@ -1,0 +1,20 @@
+Unnamed: 0: 768
+age: 86
+Body Height: 182.1
+Body Mass Index: 27.2
+Body Weight: 90.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 87.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 127.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), facial laceration, fracture of forearm, full-time employment (finding), limited social contact (finding), neoplasm of prostate, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), polyp of colon, prediabetes, received higher education (finding), reports of violence in the environment (finding), risk activity involvement (finding), served in armed forces (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

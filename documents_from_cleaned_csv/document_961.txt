@@ -1,0 +1,20 @@
+Unnamed: 0: 964
+age: 43
+Body Height: 157.6
+Body Mass Index: 30.3
+Body Weight: 75.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 65.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 113.0
+conditions: antepartum eclampsia, appendicitis, body mass index 30+ - obesity (finding), coronary heart disease, fetus with unknown complication, full-time employment (finding), history of appendectomy, limited social contact (finding), miscarriage in first trimester, misuses drugs (finding), normal pregnancy, not in labor force (finding), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

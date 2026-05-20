@@ -1,0 +1,20 @@
+Unnamed: 0: 24
+age: 52
+Body Height: 162.0
+Body Mass Index: 24.4
+Body Weight: 64.0
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 88.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 106.0
+conditions: acute cholecystitis, anemia (disorder), antepartum eclampsia, body mass index 30+ - obesity (finding), cholelithiasis, fetus with unknown complication, full-time employment (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 106.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

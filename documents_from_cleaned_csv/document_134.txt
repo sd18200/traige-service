@@ -1,0 +1,20 @@
+Unnamed: 0: 134
+age: 24
+Body Height: 157.6
+Body Mass Index: 18.4
+Body Weight: 47.2
+Body temperature: 36.6
+Diastolic Blood Pressure: 74.0
+Heart rate: 172.9
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), acute respiratory failure (disorder), covid-19, cough (finding), dyspnea (finding), fatigue (finding), fever (finding), full-time employment (finding), headache (finding), hemoptysis (finding), hypoxemia (disorder), joint pain (finding), limited social contact (finding), loss of taste (finding), muscle pain (finding), normal pregnancy, pneumonia (disorder), received higher education (finding), respiratory distress (finding), risk activity involvement (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, viral sinusitis (disorder), wheezing (finding)
+triage_level: 2
+triage_reason: HR 172.9 bpm (tachycardia)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

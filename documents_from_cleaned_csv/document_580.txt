@@ -1,0 +1,20 @@
+Unnamed: 0: 583
+age: 5
+Body Height: 87.3
+Body Mass Index: 26.384745762711862
+Body Weight: 13.3
+Body temperature: 41.2
+Diastolic Blood Pressure: 80.0
+Heart rate: 86.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 114.0
+conditions: covid-19, cough (finding), fatigue (finding), fever (finding), otitis media, suspected covid-19
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

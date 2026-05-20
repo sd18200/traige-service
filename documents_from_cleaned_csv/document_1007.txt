@@ -1,0 +1,20 @@
+Unnamed: 0: 1010
+age: 38
+Body Height: 176.7
+Body Mass Index: 22.4
+Body Weight: 69.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 107.0
+conditions: acute bronchitis (disorder), full-time employment (finding), limited social contact (finding), part-time employment (finding), received higher education (finding), risk activity involvement (finding), stress (finding), unhealthy alcohol drinking behavior (finding)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

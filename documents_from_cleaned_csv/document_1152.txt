@@ -1,0 +1,20 @@
+Unnamed: 0: 1157
+age: 66
+Body Height: 187.9
+Body Mass Index: 28.1
+Body Weight: 99.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 112.0
+conditions: anemia (disorder), appendicitis, cardiac arrest, chronic kidney disease stage 1 (disorder), chronic sinusitis (disorder), coronary heart disease, diabetes, diabetic renal disease (disorder), full-time employment (finding), history of appendectomy, history of cardiac arrest (situation), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), misuses drugs (finding), neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), only received primary school education (finding), part-time employment (finding), prediabetes, reports of violence in the environment (finding), sinusitis (disorder), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

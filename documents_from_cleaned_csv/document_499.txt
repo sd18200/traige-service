@@ -1,0 +1,20 @@
+Unnamed: 0: 501
+age: 20
+Body Height: 182.9
+Body Mass Index: 24.7
+Body Weight: 82.7
+Body temperature: 37.5
+Diastolic Blood Pressure: 79.0
+Heart rate: 66.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 133.0
+conditions: acute allergic reaction, acute viral pharyngitis (disorder), childhood asthma, perennial allergic rhinitis, risk activity involvement (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

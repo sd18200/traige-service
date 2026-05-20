@@ -1,0 +1,20 @@
+Unnamed: 0: 1132
+age: 24
+Body Height: 181.0
+Body Mass Index: 26.4
+Body Weight: 86.5
+Body temperature: 37.7
+Diastolic Blood Pressure: 111.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 151.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: DBP 111.0 mmHg (HTN crisis)
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

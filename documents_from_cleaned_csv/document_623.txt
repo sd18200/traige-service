@@ -1,0 +1,20 @@
+Unnamed: 0: 626
+age: 107
+Body Height: 171.3
+Body Mass Index: 30.1
+Body Weight: 88.4
+Body temperature: 37.0
+Diastolic Blood Pressure: 95.0
+Heart rate: 100.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 160.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), alzheimer's disease (disorder), chronic kidney disease stage 1 (disorder), diabetes, diabetic renal disease (disorder), diabetic retinopathy associated with type ii diabetes mellitus (disorder), fracture of rib, full-time employment (finding), has a criminal record (finding), homeless (finding), hyperglycemia (disorder), hyperlipidemia, hypertension, hypertriglyceridemia (disorder), lack of access to transportation (finding), limited social contact (finding), macular edema and retinopathy due to type 2 diabetes mellitus (disorder), metabolic syndrome x (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), osteoporosis (disorder), otitis media, part-time employment (finding), pathological fracture due to osteoporosis (disorder), prediabetes, proliferative diabetic retinopathy due to type ii diabetes mellitus (disorder), received certificate of high school equivalency (finding), reports of violence in the environment (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), stroke, transport problems (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 38
+age: 29
+Body Height: 168.8
+Body Mass Index: 25.7
+Body Weight: 73.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 85.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 109.0
+conditions: chronic neck pain (finding), full-time employment (finding), hypertension, limited social contact (finding), normal pregnancy, part-time employment (finding), received higher education (finding), risk activity involvement (finding), severe anxiety (panic) (finding, stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 109.0 mmHg; Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

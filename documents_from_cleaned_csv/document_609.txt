@@ -1,0 +1,20 @@
+Unnamed: 0: 612
+age: 12
+Body Height: 132.3
+Body Mass Index: 16.1
+Body Weight: 29.6
+Body temperature: 38.7
+Diastolic Blood Pressure: 80.0
+Heart rate: 72.2
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 28.8
+Systolic Blood Pressure: 115.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), covid-19, fever (finding), headache (finding), loss of taste (finding), sputum finding (finding), streptococcal sore throat (disorder), suspected covid-19, viral sinusitis (disorder), whiplash injury to neck
+triage_level: 1
+triage_reason: RR 28.8 bpm
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

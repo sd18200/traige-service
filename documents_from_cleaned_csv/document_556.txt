@@ -1,0 +1,20 @@
+Unnamed: 0: 559
+age: 32
+Body Height: 163.0
+Body Mass Index: 36.0
+Body Weight: 95.6
+Body temperature: 40.1
+Diastolic Blood Pressure: 95.0
+Heart rate: 134.7
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 31.5
+Systolic Blood Pressure: 188.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), antepartum eclampsia, body mass index 30+ - obesity (finding), covid-19, cough (finding), dyspnea (finding), fever (finding), full-time employment (finding), headache (finding), hypertension, limited social contact (finding), misuses drugs (finding), normal pregnancy, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), sore throat symptom (finding), sputum finding (finding), stress (finding), suspected covid-19, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), wheezing (finding)
+triage_level: 2
+triage_reason: HR 134.7 bpm (tachycardia); RR 31.5 bpm (resp distress)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 160
+age: 7
+Body Height: 97.0
+Body Mass Index: 16.5
+Body Weight: 15.6
+Body temperature: 38.7
+Diastolic Blood Pressure: 83.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 117.0
+conditions: otitis media, streptococcal sore throat (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

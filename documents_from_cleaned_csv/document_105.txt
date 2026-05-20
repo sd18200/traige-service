@@ -1,0 +1,20 @@
+Unnamed: 0: 105
+age: 23
+Body Height: 159.7
+Body Mass Index: 40.9
+Body Weight: 104.4
+Body temperature: 38.7
+Diastolic Blood Pressure: 110.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 152.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), body mass index 40+ - severely obese (finding), full-time employment (finding), housing unsatisfactory (finding), hypertension, not in labor force (finding), received higher education (finding), risk activity involvement (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

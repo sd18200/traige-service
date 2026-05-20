@@ -1,0 +1,20 @@
+Unnamed: 0: 299
+age: 23
+Body Height: 174.5
+Body Mass Index: 23.1
+Body Weight: 70.2
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 73.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 121.0
+conditions: acute bronchitis (disorder), closed fracture of hip, full-time employment (finding), hypertension, part-time employment (finding), received higher education (finding), risk activity involvement (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

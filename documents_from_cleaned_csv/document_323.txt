@@ -1,0 +1,20 @@
+Unnamed: 0: 324
+age: 77
+Body Height: 160.3
+Body Mass Index: 27.8
+Body Weight: 71.4
+Body temperature: 41.6
+Diastolic Blood Pressure: 86.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 124.0
+conditions: acute bacterial sinusitis (disorder), body mass index 30+ - obesity (finding), covid-19, cardiac arrest, chronic sinusitis (disorder), cough (finding), fatigue (finding), fracture of ankle, headache (finding), history of cardiac arrest (situation), hyperlipidemia, hypertension, injury of anterior cruciate ligament, osteoarthritis of knee, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), suspected covid-19, unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

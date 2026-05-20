@@ -1,0 +1,20 @@
+Unnamed: 0: 1099
+age: 113
+Body Height: 172.4
+Body Mass Index: 32.3
+Body Weight: 96.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 83.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 136.0
+conditions: anemia (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), cardiac arrest, chronic low back pain (finding), chronic neck pain (finding), closed fracture of hip, fracture of forearm, full-time employment (finding), history of cardiac arrest (situation), hypertension, limited social contact (finding), miscarriage in first trimester, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), polyp of colon, prediabetes, received certificate of high school equivalency (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke; Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

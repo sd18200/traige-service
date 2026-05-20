@@ -1,0 +1,20 @@
+Unnamed: 0: 401
+age: 73
+Body Height: 183.6
+Body Mass Index: 23.0
+Body Weight: 77.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), escherichia coli urinary tract infection, full-time employment (finding), history of single seizure (situation), hyperlipidemia, hypertension, limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), seizure disorder, sepsis (disorder), septic shock (disorder), sinusitis (disorder), social isolation (finding), stress (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

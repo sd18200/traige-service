@@ -1,0 +1,20 @@
+Unnamed: 0: 674
+age: 93
+Body Height: 174.7
+Body Mass Index: 30.6
+Body Weight: 93.4
+Body temperature: 38.4
+Diastolic Blood Pressure: 76.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 113.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), coronary heart disease, familial alzheimer's disease of early onset (disorder), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), hyperlipidemia, limited social contact (finding), only received primary school education (finding), part-time employment (finding), served in armed forces (finding), social isolation (finding), streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

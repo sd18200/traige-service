@@ -1,0 +1,20 @@
+Unnamed: 0: 459
+age: 39
+Body Height: 186.0
+Body Mass Index: 28.1
+Body Weight: 97.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 84.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 130.0
+conditions: concussion with loss of consciousness, full-time employment (finding), laceration of foot, received certificate of high school equivalency (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

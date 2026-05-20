@@ -1,0 +1,20 @@
+Unnamed: 0: 1094
+age: 63
+Body Height: 177.4
+Body Mass Index: 27.5
+Body Weight: 86.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 83.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 130.0
+conditions: acute bronchitis (disorder), appendicitis, body mass index 30+ - obesity (finding), full-time employment (finding), history of appendectomy, laceration of foot, limited social contact (finding), not in labor force (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), sprain of ankle, stress (finding), stroke, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 297
+age: 60
+Body Height: 182.8
+Body Mass Index: 30.3
+Body Weight: 101.4
+Body temperature: 37.0
+Diastolic Blood Pressure: 82.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 125.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic congestive heart failure (disorder), chronic sinusitis (disorder), full-time employment (finding), hypertension, limited social contact (finding), not in labor force (finding), osteoarthritis of knee, part-time employment (finding), prediabetes, received higher education (finding), shock (disorder), social isolation (finding), sprain of ankle, stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

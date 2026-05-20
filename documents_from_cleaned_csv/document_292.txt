@@ -1,0 +1,20 @@
+Unnamed: 0: 293
+age: 82
+Body Height: 178.1
+Body Mass Index: 27.6
+Body Weight: 87.6
+Body temperature: 40.4
+Diastolic Blood Pressure: 76.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 126.0
+conditions: anemia (disorder), covid-19, chill (finding), chronic intractable migraine without aura, chronic low back pain (finding), chronic neck pain (finding), chronic pain, cough (finding), drug overdose, fatigue (finding), fever (finding), full-time employment (finding), hypertension, impacted molars, laceration of forearm, limited social contact (finding), part-time employment (finding), polyp of colon, prediabetes, received certificate of high school equivalency (finding), recurrent rectal polyp, reports of violence in the environment (finding), risk activity involvement (finding), social isolation (finding), sputum finding (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

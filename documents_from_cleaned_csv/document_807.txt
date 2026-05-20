@@ -1,0 +1,20 @@
+Unnamed: 0: 810
+age: 60
+Body Height: 162.4
+Body Mass Index: 30.5
+Body Weight: 80.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 96.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 145.0
+conditions: anemia (disorder), fetus with unknown complication, full-time employment (finding), has a criminal record (finding), hypertension, miscarriage in first trimester, normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), refugee (person), social isolation (finding), stress (finding), transformed migraine (disorder), unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 410
+age: 4
+Body Height: 81.7
+Body Mass Index: 26.384745762711862
+Body Weight: 11.7
+Body temperature: 41.7
+Diastolic Blood Pressure: 70.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 117.0
+conditions: covid-19, fatigue (finding), fever (finding), headache (finding), otitis media, sore throat symptom (finding), suspected covid-19
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 703
+age: 74
+Body Height: 165.8
+Body Mass Index: 27.9
+Body Weight: 76.6
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 75.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 118.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), fracture of clavicle, full-time employment (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

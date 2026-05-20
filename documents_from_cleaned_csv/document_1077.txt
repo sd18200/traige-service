@@ -1,0 +1,20 @@
+Unnamed: 0: 1080
+age: 112
+Body Height: 153.8
+Body Mass Index: 27.7
+Body Weight: 65.6
+Body temperature: 37.1
+Diastolic Blood Pressure: 75.0
+Heart rate: 86.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 121.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic low back pain (finding), chronic neck pain (finding), chronic sinusitis (disorder), coronary heart disease, full-time employment (finding), history of myocardial infarction (situation), hyperlipidemia, injury of tendon of the rotator cuff of shoulder, limited social contact (finding), myocardial infarction, not in labor force (finding), osteoporosis (disorder), part-time employment (finding), prediabetes, received higher education (finding), risk activity involvement (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: myocardial infarction
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

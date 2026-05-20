@@ -1,0 +1,20 @@
+Unnamed: 0: 1059
+age: 82
+Body Height: 160.1
+Body Mass Index: 28.4
+Body Weight: 72.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 89.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 153.0
+conditions: body mass index 30+ - obesity (finding), chronic low back pain (finding), diabetes, diabetic retinopathy associated with type ii diabetes mellitus (disorder), full-time employment (finding), has a criminal record (finding), homeless (finding), hypertension, hypertriglyceridemia (disorder), lack of access to transportation (finding), metabolic syndrome x (disorder), neuropathy due to type 2 diabetes mellitus (disorder), nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding), transport problems (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

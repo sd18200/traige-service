@@ -1,0 +1,20 @@
+Unnamed: 0: 1050
+age: 72
+Body Height: 164.3
+Body Mass Index: 28.7
+Body Weight: 77.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 83.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 10.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 126.0
+conditions: acute bronchitis (disorder), body mass index 30+ - obesity (finding), chronic obstructive bronchitis (disorder), full-time employment (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, not in labor force (finding), osteoarthritis of knee, primary fibromyalgia syndrome, received higher education (finding), risk activity involvement (finding), social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Pain score 10.0 (severe)
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

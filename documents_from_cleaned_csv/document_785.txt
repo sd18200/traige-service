@@ -1,0 +1,20 @@
+Unnamed: 0: 788
+age: 28
+Body Height: 179.2
+Body Mass Index: 22.8
+Body Weight: 73.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 79.0
+Heart rate: 62.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 108.0
+conditions: acute bronchitis (disorder), full-time employment (finding), limited social contact (finding), only received primary school education (finding), part-time employment (finding), prediabetes, risk activity involvement (finding), severe anxiety (panic) (finding, stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 108.0 mmHg
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

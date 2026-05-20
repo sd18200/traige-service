@@ -1,0 +1,20 @@
+Unnamed: 0: 664
+age: 61
+Body Height: 168.8
+Body Mass Index: 30.4
+Body Weight: 86.5
+Body temperature: 37.8
+Diastolic Blood Pressure: 80.0
+Heart rate: 64.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 128.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), chronic congestive heart failure (disorder), full-time employment (finding), hyperlipidemia, laceration of foot, limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), refugee (person), rheumatoid arthritis, social isolation (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

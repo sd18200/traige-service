@@ -1,0 +1,20 @@
+Unnamed: 0: 37
+age: 4
+Body Height: 80.1
+Body Mass Index: 26.384745762711862
+Body Weight: 10.3
+Body temperature: 37.7
+Diastolic Blood Pressure: 77.0
+Heart rate: 77.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 109.0
+conditions: acute viral pharyngitis (disorder), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 109.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

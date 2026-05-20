@@ -1,0 +1,20 @@
+Unnamed: 0: 400
+age: 55
+Body Height: 173.1
+Body Mass Index: 33.8
+Body Weight: 101.4
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 101.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 145.0
+conditions: acute bronchitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic sinusitis (disorder), concussion with loss of consciousness, diabetes, full-time employment (finding), hyperglycemia (disorder), hypertension, hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), prediabetes, received higher education (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), unhealthy alcohol drinking behavior (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 361
+age: 66
+Body Height: 163.2
+Body Mass Index: 27.9
+Body Weight: 74.4
+Body temperature: 37.5
+Diastolic Blood Pressure: 73.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 128.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), cardiac arrest, chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), history of cardiac arrest (situation), miscarriage in first trimester, part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

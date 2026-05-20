@@ -1,0 +1,20 @@
+Unnamed: 0: 621
+age: 75
+Body Height: 187.9
+Body Mass Index: 30.3
+Body Weight: 107.0
+Body temperature: 37.7
+Diastolic Blood Pressure: 115.0
+Heart rate: 71.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 169.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), carcinoma in situ of prostate (disorder), chronic low back pain (finding), chronic sinusitis (disorder), full-time employment (finding), hypertension, limited social contact (finding), neoplasm of prostate, opioid abuse (disorder), part-time employment (finding), prediabetes, received higher education (finding), served in armed forces (finding), stress (finding), whiplash injury to neck
+triage_level: 2
+triage_reason: DBP 115.0 mmHg (HTN crisis)
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

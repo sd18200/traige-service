@@ -1,0 +1,20 @@
+Unnamed: 0: 943
+age: 76
+Body Height: 173.5
+Body Mass Index: 28.2
+Body Weight: 84.8
+Body temperature: 37.9
+Diastolic Blood Pressure: 79.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 120.0
+conditions: acute viral pharyngitis (disorder), atrial fibrillation, body mass index 30+ - obesity (finding), chronic intractable migraine without aura, fracture of clavicle, full-time employment (finding), has a criminal record (finding), hypertension, impacted molars, limited social contact (finding), not in labor force (finding), osteoporosis (disorder), part-time employment (finding), polyp of colon, received higher education (finding), reports of violence in the environment (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

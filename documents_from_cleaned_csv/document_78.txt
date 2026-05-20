@@ -1,0 +1,20 @@
+Unnamed: 0: 78
+age: 82
+Body Height: 177.9
+Body Mass Index: 30.1
+Body Weight: 95.2
+Body temperature: 37.3
+Diastolic Blood Pressure: 75.0
+Heart rate: 75.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 116.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), non-small cell carcinoma of lung  tnm stage 1 (disorder), non-small cell lung cancer (disorder), not in labor force (finding), part-time employment (finding), received higher education (finding), stress (finding), suspected lung cancer (situation), tear of meniscus of knee, viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

@@ -1,0 +1,20 @@
+Unnamed: 0: 687
+age: 21
+Body Height: 165.0
+Body Mass Index: 28.1
+Body Weight: 76.4
+Body temperature: 37.9
+Diastolic Blood Pressure: 96.0
+Heart rate: 88.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 152.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), full-time employment (finding), hypertension, normal pregnancy, received certificate of high school equivalency (finding), risk activity involvement (finding), streptococcal sore throat (disorder), stress (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

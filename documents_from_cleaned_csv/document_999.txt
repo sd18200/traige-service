@@ -1,0 +1,20 @@
+Unnamed: 0: 1002
+age: 24
+Body Height: 159.2
+Body Mass Index: 27.1
+Body Weight: 68.7
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 76.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 112.0
+conditions: acute bacterial sinusitis (disorder), acute bronchitis (disorder), atopic dermatitis, chronic low back pain (finding), chronic neck pain (finding), fetus with unknown complication, first degree burn, fracture subluxation of wrist, limited social contact (finding), miscarriage in first trimester, normal pregnancy, perennial allergic rhinitis, received higher education (finding), risk activity involvement (finding), severe anxiety (panic) (finding, social isolation (finding), stress (finding), unemployed (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

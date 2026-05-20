@@ -1,0 +1,20 @@
+Unnamed: 0: 336
+age: 22
+Body Height: 165.2
+Body Mass Index: 19.5
+Body Weight: 53.2
+Body temperature: 37.2
+Diastolic Blood Pressure: 80.0
+Heart rate: 97.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 123.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), history of single seizure (situation), housing unsatisfactory (finding), hypertension, laceration of foot, laceration of thigh, limited social contact (finding), received certificate of high school equivalency (finding), risk activity involvement (finding), seizure disorder, streptococcal sore throat (disorder), stress (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

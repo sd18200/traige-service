@@ -1,0 +1,20 @@
+Unnamed: 0: 269
+age: 64
+Body Height: 171.6
+Body Mass Index: 27.7
+Body Weight: 81.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 107.0
+Heart rate: 98.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 155.0
+conditions: atrial fibrillation, body mass index 30+ - obesity (finding), chronic low back pain (finding), chronic neck pain (finding), full-time employment (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), miscarriage in first trimester, part-time employment (finding), received higher education (finding), stress (finding), stroke, unhealthy alcohol drinking behavior (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: stroke
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 1
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

@@ -1,0 +1,20 @@
+Unnamed: 0: 1113
+age: 67
+Body Height: 155.4
+Body Mass Index: 29.9
+Body Weight: 72.1
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 72.0
+Heart rate: 95.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 114.0
+conditions: chronic sinusitis (disorder), full-time employment (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

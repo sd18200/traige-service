@@ -1,0 +1,20 @@
+Unnamed: 0: 1161
+age: 76
+Body Height: 170.8
+Body Mass Index: 27.4
+Body Weight: 79.9
+Body temperature: 40.7
+Diastolic Blood Pressure: 76.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 115.0
+conditions: body mass index 30+ - obesity (finding), covid-19, full-time employment (finding), has a criminal record (finding), hypertension, limited social contact (finding), localized  primary osteoarthritis of the hand, not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), sputum finding (finding), stress (finding), suspected covid-19, victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

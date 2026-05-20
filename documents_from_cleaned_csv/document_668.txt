@@ -1,0 +1,20 @@
+Unnamed: 0: 671
+age: 34
+Body Height: 166.4
+Body Mass Index: 27.9
+Body Weight: 77.3
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 68.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 118.0
+conditions: acute bronchitis (disorder), housing unsatisfactory (finding), hypertension, lack of access to transportation (finding), limited social contact (finding), misuses drugs (finding), normal pregnancy, received certificate of high school equivalency (finding), reports of violence in the environment (finding), stress (finding), transport problems (finding), unemployed (finding)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

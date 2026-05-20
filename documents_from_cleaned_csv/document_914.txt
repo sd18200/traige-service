@@ -1,0 +1,20 @@
+Unnamed: 0: 917
+age: 82
+Body Height: 170.9
+Body Mass Index: 27.3
+Body Weight: 79.6
+Body temperature: 37.4
+Diastolic Blood Pressure: 82.0
+Heart rate: 91.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 132.0
+conditions: acute viral pharyngitis (disorder), anemia (disorder), body mass index 30+ - obesity (finding), chronic congestive heart failure (disorder), full-time employment (finding), homeless (finding), limited social contact (finding), miscarriage in first trimester, not in labor force (finding), part-time employment (finding), polyp of colon, prediabetes, primary fibromyalgia syndrome, received higher education (finding), sprain of ankle, stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

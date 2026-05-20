@@ -1,0 +1,20 @@
+Unnamed: 0: 518
+age: 56
+Body Height: 176.7
+Body Mass Index: 28.0
+Body Weight: 87.5
+Body temperature: 37.6
+Diastolic Blood Pressure: 84.0
+Heart rate: 90.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 111.0
+conditions: acute respiratory distress syndrome (disorder), acute viral pharyngitis (disorder), anemia (disorder), chronic sinusitis (disorder), full-time employment (finding), has a criminal record (finding), limited social contact (finding), not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), risk activity involvement (finding), sepsis (disorder), septic shock (disorder), sprain of wrist, streptococcal sore throat (disorder), stress (finding), victim of intimate partner abuse (finding)
+triage_level: 2
+triage_reason: Condition: sepsis
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

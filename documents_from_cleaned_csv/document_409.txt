@@ -1,0 +1,20 @@
+Unnamed: 0: 411
+age: 111
+Body Height: 170.3
+Body Mass Index: 27.9
+Body Weight: 80.9
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 81.0
+Heart rate: 94.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 129.0
+conditions: body mass index 30+ - obesity (finding), chronic sinusitis (disorder), closed fracture of hip, concussion with no loss of consciousness, coronary heart disease, full-time employment (finding), hyperlipidemia, laceration of thigh, limited social contact (finding), not in labor force (finding), only received primary school education (finding), osteoporosis (disorder), part-time employment (finding), pathological fracture due to osteoporosis (disorder), social isolation (finding), stress (finding), viral sinusitis (disorder), whiplash injury to neck
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

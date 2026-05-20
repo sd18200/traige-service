@@ -1,0 +1,20 @@
+Unnamed: 0: 577
+age: 48
+Body Height: 170.9
+Body Mass Index: 30.4
+Body Weight: 88.8
+Body temperature: 37.7
+Diastolic Blood Pressure: 81.0
+Heart rate: 70.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 118.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), fetus with unknown complication, full-time employment (finding), limited social contact (finding), miscarriage in first trimester, normal pregnancy, part-time employment (finding), received higher education (finding), social isolation (finding), stress (finding)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

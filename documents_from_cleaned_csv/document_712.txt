@@ -1,0 +1,20 @@
+Unnamed: 0: 715
+age: 54
+Body Height: 159.2
+Body Mass Index: 26.0
+Body Weight: 66.0
+Body temperature: 37.0
+Diastolic Blood Pressure: 76.0
+Heart rate: 89.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 16.0
+Systolic Blood Pressure: 133.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), full-time employment (finding), has a criminal record (finding), housing unsatisfactory (finding), limited social contact (finding), osteoarthritis of knee, part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), social isolation (finding), stress (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

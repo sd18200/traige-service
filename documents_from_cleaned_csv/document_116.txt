@@ -1,0 +1,20 @@
+Unnamed: 0: 116
+age: 12
+Body Height: 126.3
+Body Mass Index: 20.1
+Body Weight: 32.0
+Body temperature: 37.5
+Diastolic Blood Pressure: 73.0
+Heart rate: 99.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 14.0
+Systolic Blood Pressure: 107.0
+conditions: acute viral pharyngitis (disorder), concussion with no loss of consciousness, otitis media, viral sinusitis (disorder)
+triage_level: 1
+triage_reason: SBP 107.0 mmHg
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

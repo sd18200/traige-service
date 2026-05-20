@@ -1,0 +1,20 @@
+Unnamed: 0: 1034
+age: 40
+Body Height: 162.2
+Body Mass Index: 30.2
+Body Weight: 79.5
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 78.0
+Heart rate: 69.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+Respiratory rate: 15.0
+Systolic Blood Pressure: 132.0
+conditions: body mass index 30+ - obesity (finding), full-time employment (finding), housing unsatisfactory (finding), hypertension, limited social contact (finding), normal pregnancy, part-time employment (finding), received certificate of high school equivalency (finding), reports of violence in the environment (finding), stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 1

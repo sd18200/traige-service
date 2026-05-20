@@ -1,0 +1,20 @@
+Unnamed: 0: 478
+age: 25
+Body Height: 175.8
+Body Mass Index: 32.5
+Body Weight: 100.4
+Body temperature: 37.9
+Diastolic Blood Pressure: 77.0
+Heart rate: 80.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 131.0
+conditions: acute viral pharyngitis (disorder), body mass index 30+ - obesity (finding), childhood asthma, full-time employment (finding), limited social contact (finding), not in labor force (finding), only received primary school education (finding), perennial allergic rhinitis with seasonal variation, prediabetes, risk activity involvement (finding), severe anxiety (panic) (finding, stress (finding), victim of intimate partner abuse (finding)
+triage_level: 1
+triage_reason: Condition: asthma
+GENDER_M: 1
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

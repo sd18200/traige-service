@@ -1,0 +1,20 @@
+Unnamed: 0: 959
+age: 54
+Body Height: 166.4
+Body Mass Index: 27.4
+Body Weight: 75.8
+Body temperature: 37.86562009419152
+Diastolic Blood Pressure: 77.0
+Heart rate: 73.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 8.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 124.0
+conditions: anemia (disorder), appendicitis, chronic sinusitis (disorder), escherichia coli urinary tract infection, full-time employment (finding), history of appendectomy, limited social contact (finding), localized  primary osteoarthritis of the hand, normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received certificate of high school equivalency (finding), risk activity involvement (finding), rupture of appendix, severe anxiety (panic) (finding, sinusitis (disorder), social isolation (finding), stress (finding)
+triage_level: 1
+triage_reason: Pain score 8.0
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

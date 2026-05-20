@@ -1,0 +1,20 @@
+Unnamed: 0: 241
+age: 62
+Body Height: 161.2
+Body Mass Index: 27.8
+Body Weight: 72.3
+Body temperature: 37.7
+Diastolic Blood Pressure: 77.0
+Heart rate: 78.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+Respiratory rate: 12.0
+Systolic Blood Pressure: 118.0
+conditions: acute bronchitis (disorder), acute viral pharyngitis (disorder), cardiac arrest, chronic kidney disease stage 1 (disorder), chronic low back pain (finding), chronic neck pain (finding), diabetes, diabetic renal disease (disorder), full-time employment (finding), has a criminal record (finding), history of cardiac arrest (situation), hypertriglyceridemia (disorder), limited social contact (finding), metabolic syndrome x (disorder), miscarriage in first trimester, misuses drugs (finding), neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding), part-time employment (finding), received higher education (finding), reports of violence in the environment (finding), social isolation (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 2
+triage_reason: Condition: cardiac arrest
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

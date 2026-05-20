@@ -1,0 +1,20 @@
+Unnamed: 0: 41
+age: 56
+Body Height: 168.1
+Body Mass Index: 18.6
+Body Weight: 52.6
+Body temperature: 37.9
+Diastolic Blood Pressure: 79.0
+Heart rate: 74.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 121.0
+conditions: acute cholecystitis, acute bronchitis (disorder), acute viral pharyngitis (disorder), anemia (disorder), cholelithiasis, chronic neck pain (finding), full-time employment (finding), limited social contact (finding), normal pregnancy, not in labor force (finding), part-time employment (finding), primary fibromyalgia syndrome, received higher education (finding), stress (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder)
+triage_level: 0
+triage_reason: Vitals and symptoms within normal limits
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 0
+ENCOUNTERCLASS_outpatient: 1
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0

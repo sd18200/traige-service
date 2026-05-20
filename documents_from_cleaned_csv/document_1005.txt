@@ -1,0 +1,20 @@
+Unnamed: 0: 1008
+age: 36
+Body Height: 156.3
+Body Mass Index: 27.6
+Body Weight: 67.4
+Body temperature: 38.3
+Diastolic Blood Pressure: 80.0
+Heart rate: 61.0
+Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+Respiratory rate: 13.0
+Systolic Blood Pressure: 113.0
+conditions: anemia (disorder), body mass index 30+ - obesity (finding), chronic neck pain (finding), full-time employment (finding), has a criminal record (finding), hypertension, malignant neoplasm of breast (disorder), normal pregnancy, not in labor force (finding), part-time employment (finding), prediabetes, received higher education (finding), risk activity involvement (finding), severe anxiety (panic) (finding, social isolation (finding), streptococcal sore throat (disorder), stress (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder)
+triage_level: 1
+triage_reason: Condition: hypertension
+GENDER_M: 0
+ENCOUNTERCLASS_emergency: 0
+ENCOUNTERCLASS_inpatient: 1
+ENCOUNTERCLASS_outpatient: 0
+ENCOUNTERCLASS_urgentcare: 0
+ENCOUNTERCLASS_wellness: 0
